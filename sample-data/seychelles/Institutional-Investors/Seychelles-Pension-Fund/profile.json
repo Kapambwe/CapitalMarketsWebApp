@@ -1,0 +1,11 @@
+{
+  "investorId": "II-SC-001",
+  "name": "Seychelles Pension Fund",
+  "type": "Pension Fund",
+  "country": "Seychelles",
+  "assetsUnderManagement": 5200000000.0,
+  "currency": "SCR",
+  "establishedDate": "2005-01-01T00:00:00Z",
+  "members": 45000,
+  "investmentStrategy": "Diversified portfolio with domestic government securities and international fund allocations"
+}

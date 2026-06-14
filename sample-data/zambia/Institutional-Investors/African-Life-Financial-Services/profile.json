@@ -1,0 +1,11 @@
+{
+  "investorId": "II-ZM-003",
+  "name": "African Life Financial Services",
+  "type": "Insurance Fund",
+  "country": "Zambia",
+  "assetsUnderManagement": 3400000000.0,
+  "currency": "ZMW",
+  "establishedDate": "1996-08-01T00:00:00Z",
+  "members": 85000,
+  "investmentStrategy": "Conservative fixed income strategy with selective equity exposure for policyholder funds"
+}

@@ -1,0 +1,11 @@
+{
+  "investorId": "II-GM-001",
+  "name": "Social Security and Housing Finance Corporation",
+  "type": "Pension Fund",
+  "country": "Gambia",
+  "assetsUnderManagement": 5200000000.0,
+  "currency": "GMD",
+  "establishedDate": "1981-07-01T00:00:00Z",
+  "members": 150000,
+  "investmentStrategy": "Conservative pension fund management with focus on government securities and real estate"
+}

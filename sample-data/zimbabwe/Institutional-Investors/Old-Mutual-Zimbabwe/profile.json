@@ -1,0 +1,11 @@
+{
+  "investorId": "II-ZW-002",
+  "name": "Old Mutual Zimbabwe",
+  "type": "Asset Manager",
+  "country": "Zimbabwe",
+  "assetsUnderManagement": 32000000000000.0,
+  "currency": "ZWL",
+  "establishedDate": "1902-01-01T00:00:00Z",
+  "members": 500000,
+  "investmentStrategy": "Multi-asset class management with Zimbabwe Stock Exchange focus and regional diversification"
+}

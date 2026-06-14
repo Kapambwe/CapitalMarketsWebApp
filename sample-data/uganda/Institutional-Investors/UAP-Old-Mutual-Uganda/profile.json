@@ -1,0 +1,11 @@
+{
+  "investorId": "II-UG-002",
+  "name": "UAP Old Mutual Uganda",
+  "type": "Asset Manager",
+  "country": "Uganda",
+  "assetsUnderManagement": 3200000000000.0,
+  "currency": "UGX",
+  "establishedDate": "1998-04-01T00:00:00Z",
+  "members": 200000,
+  "investmentStrategy": "Multi-asset portfolio management across East African markets with focus on growth"
+}

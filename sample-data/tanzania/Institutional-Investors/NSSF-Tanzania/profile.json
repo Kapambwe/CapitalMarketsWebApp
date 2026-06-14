@@ -1,0 +1,11 @@
+{
+  "investorId": "II-TZ-001",
+  "name": "National Social Security Fund Tanzania",
+  "type": "Pension Fund",
+  "country": "Tanzania",
+  "assetsUnderManagement": 12500000000000.0,
+  "currency": "TZS",
+  "establishedDate": "1997-10-01T00:00:00Z",
+  "members": 2500000,
+  "investmentStrategy": "Diversified portfolio across government bonds, DSE equities, real estate and infrastructure"
+}

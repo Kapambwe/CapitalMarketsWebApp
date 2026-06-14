@@ -1,0 +1,11 @@
+{
+  "investorId": "II-SL-003",
+  "name": "Sierra Leone Insurance Corporation",
+  "type": "Insurance Fund",
+  "country": "Sierra Leone",
+  "assetsUnderManagement": 310000000000.0,
+  "currency": "SLE",
+  "establishedDate": "1972-06-01T00:00:00Z",
+  "members": 80000,
+  "investmentStrategy": "Conservative management of policyholder reserves in government bonds and bank deposits"
+}

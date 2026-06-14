@@ -1,0 +1,28 @@
+{
+  "investorId": "RET-ZA-004",
+  "fullName": "Zanele Khumalo",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "city": "Pretoria",
+  "registrationDate": "2021-06-12T00:00:00Z",
+  "investorType": "Individual",
+  "age": 29,
+  "occupation": "IT Consultant",
+  "riskProfile": "Aggressive",
+  "investmentHorizon": "Long-term (10+ years)",
+  "portfolioValue": 1200000.0,
+  "currency": "ZAR",
+  "monthlyContribution": 35000.0,
+  "investmentGoals": [
+    "Wealth Accumulation",
+    "Financial Independence",
+    "Business Startup"
+  ],
+  "preferredInvestments": [
+    "Equity",
+    "ETFs",
+    "Cryptocurrency"
+  ],
+  "email": "zanele.khumalo@consulting.co.za",
+  "phoneNumber": "+27-85-678-9012"
+}

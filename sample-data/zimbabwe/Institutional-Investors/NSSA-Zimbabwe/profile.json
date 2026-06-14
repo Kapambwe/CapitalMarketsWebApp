@@ -1,0 +1,11 @@
+{
+  "investorId": "II-ZW-001",
+  "name": "National Social Security Authority Zimbabwe",
+  "type": "Pension Fund",
+  "country": "Zimbabwe",
+  "assetsUnderManagement": 52000000000000.0,
+  "currency": "ZWL",
+  "establishedDate": "1989-10-01T00:00:00Z",
+  "members": 1800000,
+  "investmentStrategy": "Diversified portfolio across ZSE equities, government bonds, real estate and infrastructure"
+}

@@ -1,0 +1,10 @@
+{
+  "regulatorId": "REG-RW-001",
+  "name": "Capital Market Authority Rwanda",
+  "country": "Rwanda",
+  "establishedDate": "2011-08-01T00:00:00Z",
+  "website": "https://www.cma.rw",
+  "contactEmail": "info@cma.rw",
+  "mandate": "Regulate and develop capital markets to facilitate economic growth in Rwanda",
+  "regulatedEntities": 120
+}

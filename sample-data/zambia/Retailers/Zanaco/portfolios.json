@@ -1,0 +1,16 @@
+{
+  "id": "port-zanaco",
+  "owner": "Zanaco Agri & SME Hub",
+  "holdings": [
+    { "symbol": "MAIZE-HLN", "quantity": 500000, "costBasis": 10.00, "marketPrice": 10.50 },
+    { "symbol": "FISH-W", "quantity": 1000000, "costBasis": 2.40, "marketPrice": 2.50 },
+    { "symbol": "LIV-01", "quantity": 5000, "costBasis": 1475.00, "marketPrice": 1500.00 },
+    { "symbol": "OIL-WBU", "quantity": 10000, "costBasis": 240.00, "marketPrice": 250.00 },
+    { "symbol": "SMEB1", "quantity": 20000, "costBasis": 99.50, "marketPrice": 99.70 },
+    { "symbol": "HONEY-E", "quantity": 15000, "costBasis": 85.00, "marketPrice": 88.00 },
+    { "symbol": "FEED-HLN", "quantity": 5000, "costBasis": 490.00, "marketPrice": 500.00 },
+    { "symbol": "EQUIP-L", "quantity": 8000, "costBasis": 98.00, "marketPrice": 100.00 },
+    { "symbol": "SHOE-MINI", "quantity": 500000, "costBasis": 1.20, "marketPrice": 1.25 },
+    { "symbol": "SOAP-C", "quantity": 10000, "costBasis": 15.00, "marketPrice": 15.75 }
+  ]
+}

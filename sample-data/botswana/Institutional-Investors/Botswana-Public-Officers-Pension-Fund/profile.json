@@ -1,0 +1,11 @@
+{
+  "investorId": "II-BW-001",
+  "name": "Botswana Public Officers Pension Fund",
+  "type": "Pension Fund",
+  "country": "Botswana",
+  "assetsUnderManagement": 45000000000.0,
+  "currency": "BWP",
+  "establishedDate": "2001-04-01T00:00:00Z",
+  "members": 120000,
+  "investmentStrategy": "Diversified long-term growth with domestic and international asset allocation"
+}

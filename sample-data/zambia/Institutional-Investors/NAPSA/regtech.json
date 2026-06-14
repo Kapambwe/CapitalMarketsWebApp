@@ -1,0 +1,7 @@
+{
+  "filings": [
+    { "filingId": "FIL-N-1", "entityId": "NAPSA", "entityName": "NAPSA", "filingType": "Investment Report", "regulatoryBody": "SEC", "status": 1, "dueDate": "2026-05-15T00:00:00Z", "submittedDate": "2026-05-02T00:00:00Z" },
+    { "filingId": "FIL-N-2", "entityId": "NAPSA", "entityName": "NAPSA", "filingType": "Solvency Disclosure", "regulatoryBody": "Bank of Zambia", "status": 1, "dueDate": "2026-04-30T00:00:00Z", "submittedDate": "2026-04-28T00:00:00Z" }
+  ],
+  "cases": []
+}

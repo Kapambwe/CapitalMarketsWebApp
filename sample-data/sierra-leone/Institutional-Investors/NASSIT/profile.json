@@ -1,0 +1,11 @@
+{
+  "investorId": "II-SL-001",
+  "name": "National Social Security and Insurance Trust",
+  "type": "Pension Fund",
+  "country": "Sierra Leone",
+  "assetsUnderManagement": 2200000000000.0,
+  "currency": "SLE",
+  "establishedDate": "2001-10-01T00:00:00Z",
+  "members": 300000,
+  "investmentStrategy": "Diversified investment in government securities, real estate and strategic infrastructure"
+}

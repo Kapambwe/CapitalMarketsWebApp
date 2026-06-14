@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sp-maize-001",
+    "name": "Maize Production Starter Pack",
+    "industry": "Agriculture",
+    "description": "Everything needed for 10 hectares of maize production including seed, fertilizer, and basic tools.",
+    "publicationReason": "To stimulate maize production for regional export markets.",
+    "regulatoryStatus": "Approved",
+    "estimatedCost": 50000,
+    "includedAssets": [ "Hybrid Seed", "Fertilizer (D-Compound & Urea)", "Ploughing Service", "Pesticides", "Bags" ],
+    "requiredSkills": [ "Basic Farming", "Pest Management", "Financial Literacy" ],
+    "expectedMonthlyRevenue": 15000
+  },
+  {
+    "id": "sp-solar-001",
+    "name": "Solar Micro-Grid Pack",
+    "industry": "Energy",
+    "description": "Small scale solar equipment for community or small business power.",
+    "publicationReason": "To support rural electrification through small-scale entrepreneurship.",
+    "regulatoryStatus": "Approved",
+    "estimatedCost": 120000,
+    "includedAssets": [ "Solar Panels (10kW)", "Battery Storage", "Inverter", "Wiring", "Installation Kits" ],
+    "requiredSkills": [ "Electrical Basics", "Maintenance", "Customer Billing" ],
+    "expectedMonthlyRevenue": 25000
+  }
+]

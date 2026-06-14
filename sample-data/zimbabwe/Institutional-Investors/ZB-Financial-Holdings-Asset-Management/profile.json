@@ -1,0 +1,11 @@
+{
+  "investorId": "II-ZW-004",
+  "name": "ZB Financial Holdings Asset Management",
+  "type": "Asset Manager",
+  "country": "Zimbabwe",
+  "assetsUnderManagement": 10500000000000.0,
+  "currency": "ZWL",
+  "establishedDate": "1996-08-01T00:00:00Z",
+  "members": 80000,
+  "investmentStrategy": "Active portfolio management on the Zimbabwe Stock Exchange with money market expertise"
+}

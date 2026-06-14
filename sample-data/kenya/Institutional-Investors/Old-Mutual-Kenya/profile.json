@@ -1,0 +1,38 @@
+{
+  "investorId": "II-KE-003",
+  "name": "Old Mutual Kenya",
+  "type": "Insurance & Asset Management",
+  "country": "Kenya",
+  "countryCode": "KE",
+  "assetsUnderManagement": 120000000000.0,
+  "currency": "KES",
+  "establishedDate": "1924-01-01T00:00:00Z",
+  "clients": 180000,
+  "website": "https://www.oldmutual.co.ke",
+  "investmentStrategy": "Conservative to aggressive portfolios tailored to client risk profiles",
+  "portfolioAllocation": [
+    {
+      "assetClass": "Government Bonds",
+      "percentage": 0.38
+    },
+    {
+      "assetClass": "Equity",
+      "percentage": 0.28
+    },
+    {
+      "assetClass": "Corporate Bonds",
+      "percentage": 0.18
+    },
+    {
+      "assetClass": "Real Estate",
+      "percentage": 0.10
+    },
+    {
+      "assetClass": "Cash",
+      "percentage": 0.06
+    }
+  ],
+  "annualReturn": 0.095,
+  "contactEmail": "info@oldmutual.co.ke",
+  "phoneNumber": "+254-20-2828000"
+}

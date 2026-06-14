@@ -1,0 +1,11 @@
+{
+  "investorId": "II-ZW-003",
+  "name": "First Mutual Holdings",
+  "type": "Insurance Fund",
+  "country": "Zimbabwe",
+  "assetsUnderManagement": 15000000000000.0,
+  "currency": "ZWL",
+  "establishedDate": "1985-04-01T00:00:00Z",
+  "members": 350000,
+  "investmentStrategy": "Balanced investment of policyholder funds across ZSE equities, property and fixed income"
+}

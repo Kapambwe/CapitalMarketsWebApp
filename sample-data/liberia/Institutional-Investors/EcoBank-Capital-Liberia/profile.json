@@ -1,0 +1,11 @@
+{
+  "investorId": "II-LR-004",
+  "name": "EcoBank Capital Liberia",
+  "type": "Asset Manager",
+  "country": "Liberia",
+  "assetsUnderManagement": 4200000000.0,
+  "currency": "LRD",
+  "establishedDate": "2009-11-01T00:00:00Z",
+  "members": 12000,
+  "investmentStrategy": "West African regional investment strategy with focus on fixed income and trade finance"
+}

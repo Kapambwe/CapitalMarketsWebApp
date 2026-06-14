@@ -1,0 +1,29 @@
+ion"
+  ],
+  "preferredInvestments": [
+    "Equity Funds",
+    "Government Bonds",
+    "Real Estate"
+  ],
+  "email": "kwame.mensah@engineering.gh",
+  "phoneNumber": "+233-244-123456"
+}
+{
+  "investorId": "RET-GH-001",
+  "fullName": "Kwame Mensah",
+  "country": "Ghana",
+  "countryCode": "GH",
+  "city": "Accra",
+  "registrationDate": "2021-03-18T00:00:00Z",
+  "investorType": "Individual",
+  "age": 39,
+  "occupation": "Civil Engineer",
+  "riskProfile": "Moderate",
+  "investmentHorizon": "Long-term (10+ years)",
+  "portfolioValue": 85000.0,
+  "currency": "GHS",
+  "monthlyContribution": 2500.0,
+  "investmentGoals": [
+    "Retirement Planning",
+    "Real Estate Investment",
+    "Children's Educat

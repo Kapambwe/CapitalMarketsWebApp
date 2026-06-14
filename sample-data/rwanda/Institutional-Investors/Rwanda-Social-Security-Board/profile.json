@@ -1,0 +1,11 @@
+{
+  "investorId": "II-RW-001",
+  "name": "Rwanda Social Security Board",
+  "type": "Pension Fund",
+  "country": "Rwanda",
+  "assetsUnderManagement": 850000000000.0,
+  "currency": "RWF",
+  "establishedDate": "2003-01-01T00:00:00Z",
+  "members": 800000,
+  "investmentStrategy": "Diversified long-term growth across government bonds, equities and strategic real estate investments"
+}

@@ -1,0 +1,10 @@
+{
+  "regulatorId": "REG-MU-001",
+  "name": "Financial Services Commission Mauritius",
+  "country": "Mauritius",
+  "establishedDate": "2001-12-01T00:00:00Z",
+  "website": "https://www.fscmauritius.org",
+  "contactEmail": "fscmauritius@intnet.mu",
+  "mandate": "Regulate and supervise financial services and global business sectors in Mauritius",
+  "regulatedEntities": 850
+}

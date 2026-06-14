@@ -1,0 +1,59 @@
+[
+  {
+    "id": "fr-001",
+    "title": "Maize Expansion Project - Mazabuka",
+    "description": "Expanding maize production to an additional 50 hectares for export market.",
+    "publicationReason": "Direct contribution to national export strategy and agricultural diversification.",
+    "applicantId": "farmer-001",
+    "applicantName": "Mazabuka Maize Farmers Co-op",
+    "type": "Contract",
+    "amountRequested": 250000,
+    "amountFunded": 150000,
+    "currency": "USD",
+    "status": "PartiallyFunded",
+    "regulatoryStatus": "Approved",
+    "dateSubmitted": "2026-05-14T10:00:00Z",
+    "contractId": "cont-maize-exp-001",
+    "fundabilityScore": 85.5,
+    "impactProfile": {
+      "jobsFunded": 25,
+      "expectedRevenueUplift": 450000,
+      "exportGrowthValue": 300000,
+      "taxContributionEstimate": 45000,
+      "socialImpactSummary": "Supports 50 smallholder families with steady income."
+    },
+    "milestones": [
+      { "id": "m1", "description": "Land Preparation", "amount": 50000, "isCompleted": true, "completionDate": "2026-06-03T10:00:00Z" },
+      { "id": "m2", "description": "Seed and Fertilizer Purchase", "amount": 100000, "isCompleted": false },
+      { "id": "m3", "description": "Irrigation Installation", "amount": 100000, "isCompleted": false }
+    ],
+    "documents": [
+      { "id": "d1", "name": "Business Plan", "isProvided": true, "status": "Verified" },
+      { "id": "d2", "name": "Land Title", "isProvided": true, "status": "Verified" },
+      { "id": "d3", "name": "Export Contract", "isProvided": true, "status": "Verified" }
+    ]
+  },
+  {
+    "id": "fr-002",
+    "title": "Manufacturing Equipment Upgrade",
+    "description": "New automated production line for copper wire manufacturing.",
+    "publicationReason": "Critical import substitution project for electrical components.",
+    "regulatoryStatus": "PendingReview",
+    "applicantId": "sme-001",
+    "applicantName": "Lusaka Manufacturing Ltd",
+    "type": "SMEExpansion",
+    "amountRequested": 500000,
+    "amountFunded": 0,
+    "currency": "USD",
+    "status": "InReview",
+    "dateSubmitted": "2026-05-29T10:00:00Z",
+    "fundabilityScore": 92.0,
+    "impactProfile": {
+      "jobsFunded": 15,
+      "expectedRevenueUplift": 1200000,
+      "importReplacementValue": 800000,
+      "taxContributionEstimate": 120000,
+      "socialImpactSummary": "Reduces national dependence on imported copper products."
+    }
+  }
+]

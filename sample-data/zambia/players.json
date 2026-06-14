@@ -1,0 +1,13 @@
+[
+  { "playerId": "farmer-001", "name": "Mazabuka Maize Farmers Co-op", "industry": 1, "subIndustry": "Maize Farming", "kycStatus": 1, "contactEmail": "contact@nmcoop.example", "registrationNumber": "AG-001", "registeredAt": "2023-01-01T00:00:00Z" },
+  { "playerId": "sme-001", "name": "Lusaka Manufacturing Ltd", "industry": 3, "subIndustry": "Agribusiness", "kycStatus": 1, "contactEmail": "info@lusaka.example", "registrationNumber": "SME-100", "registeredAt": "2024-01-01T00:00:00Z" },
+  { "playerId": "soe-001", "name": "ZESCO Limited", "industry": 11, "subIndustry": "Energy", "kycStatus": 1, "contactEmail": "contact@zesco.example", "registrationNumber": "SOE-01", "registeredAt": "2016-01-01T00:00:00Z" },
+  { "playerId": "muni-001", "name": "Lusaka Municipal Council", "industry": 11, "subIndustry": "Local Government", "kycStatus": 1, "contactEmail": "info@lusaka.gov.example", "registrationNumber": "MUNI-01", "registeredAt": "2006-01-01T00:00:00Z" },
+  { "playerId": "investor-001", "name": "NAPSA Investment", "industry": 4, "subIndustry": "Pension Fund", "kycStatus": 1, "contactEmail": "hello@napsa.example", "registrationNumber": "INV-01", "registeredAt": "2025-01-01T00:00:00Z" },
+  { "playerId": "bank-001", "name": "Zanaco Bank", "industry": 4, "subIndustry": "Commercial Banking", "kycStatus": 1, "contactEmail": "support@zanaco.example", "registrationNumber": "BNK-01", "registeredAt": "1969-01-01T00:00:00Z" },
+  { "playerId": "mine-001", "name": "Kansanshi Mining", "industry": 2, "subIndustry": "Copper Mining", "kycStatus": 1, "contactEmail": "ops@kansanshi.example", "registrationNumber": "MIN-01", "registeredAt": "2004-01-01T00:00:00Z" },
+  { "playerId": "tele-001", "name": "Zamtel", "industry": 5, "subIndustry": "Mobile & Data", "kycStatus": 1, "contactEmail": "care@zamtel.example", "registrationNumber": "TEL-01", "registeredAt": "1994-01-01T00:00:00Z" },
+  { "playerId": "retail-001", "name": "Shoprite Zambia", "industry": 9, "subIndustry": "Retail", "kycStatus": 1, "contactEmail": "zambia@shoprite.example", "registrationNumber": "RET-01", "registeredAt": "1995-01-01T00:00:00Z" },
+  { "playerId": "logi-001", "name": "Lusaka Logistics", "industry": 10, "subIndustry": "Freight", "kycStatus": 1, "contactEmail": "trucks@logistics.example", "registrationNumber": "LOG-01", "registeredAt": "2010-01-01T00:00:00Z" },
+  { "playerId": "brew-001", "name": "Zambian Breweries", "industry": 3, "subIndustry": "Beverages", "kycStatus": 1, "contactEmail": "info@zb.example", "registrationNumber": "BRW-01", "registeredAt": "1968-01-01T00:00:00Z" }
+]

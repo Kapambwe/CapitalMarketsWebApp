@@ -1,0 +1,16 @@
+{
+  "regulatorId": "REG-KE-001",
+  "name": "Capital Markets Authority",
+  "country": "Kenya",
+  "countryCode": "KE",
+  "establishedDate": "1989-01-01T00:00:00Z",
+  "website": "https://www.cma.or.ke",
+  "contactEmail": "info@cma.or.ke",
+  "phoneNumber": "+254-20-2263000",
+  "address": "14th Floor, Embankment Plaza, Longonot Road, Upper Hill, Nairobi",
+  "mandate": "To regulate and develop an orderly, fair and efficient capital markets in Kenya",
+  "regulatedEntities": 156,
+  "licensedBrokers": 23,
+  "listedCompanies": 64,
+  "currency": "KES"
+}

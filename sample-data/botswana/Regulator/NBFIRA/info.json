@@ -1,0 +1,10 @@
+{
+  "regulatorId": "REG-BW-001",
+  "name": "Non-Bank Financial Institutions Regulatory Authority",
+  "country": "Botswana",
+  "establishedDate": "2008-09-01T00:00:00Z",
+  "website": "https://www.nbfira.org.bw",
+  "contactEmail": "info@nbfira.org.bw",
+  "mandate": "Regulate and supervise non-bank financial institutions in Botswana",
+  "regulatedEntities": 280
+}

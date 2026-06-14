@@ -1,0 +1,11 @@
+{
+  "investorId": "II-MU-003",
+  "name": "Swan General Insurance",
+  "type": "Insurance Fund",
+  "country": "Mauritius",
+  "assetsUnderManagement": 30000000000.0,
+  "currency": "MUR",
+  "establishedDate": "1854-01-01T00:00:00Z",
+  "members": 250000,
+  "investmentStrategy": "Balanced policyholder fund management with significant property and SEM equity allocation"
+}

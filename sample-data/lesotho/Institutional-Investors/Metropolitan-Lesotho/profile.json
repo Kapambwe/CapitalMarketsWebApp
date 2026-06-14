@@ -1,0 +1,11 @@
+{
+  "investorId": "II-LS-003",
+  "name": "Metropolitan Lesotho",
+  "type": "Asset Manager",
+  "country": "Lesotho",
+  "assetsUnderManagement": 2000000000.0,
+  "currency": "LSL",
+  "establishedDate": "2002-11-15T00:00:00Z",
+  "members": 18000,
+  "investmentStrategy": "Multi-asset portfolio management with cross-border SACU investment capabilities"
+}

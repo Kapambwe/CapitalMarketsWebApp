@@ -1,0 +1,11 @@
+{
+  "investorId": "II-GH-003",
+  "name": "Databank Asset Management",
+  "type": "Asset Manager",
+  "country": "Ghana",
+  "assetsUnderManagement": 5400000000.0,
+  "currency": "GHS",
+  "establishedDate": "1990-10-15T00:00:00Z",
+  "members": 25000,
+  "investmentStrategy": "Active equity and fixed income management with focus on Ghana Stock Exchange listed securities"
+}

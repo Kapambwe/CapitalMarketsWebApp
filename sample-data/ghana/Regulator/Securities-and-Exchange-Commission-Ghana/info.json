@@ -1,0 +1,16 @@
+{
+  "regulatorId": "REG-GH-001",
+  "name": "Securities and Exchange Commission Ghana",
+  "country": "Ghana",
+  "countryCode": "GH",
+  "establishedDate": "1993-01-01T00:00:00Z",
+  "website": "https://www.sec.gov.gh",
+  "contactEmail": "info@sec.gov.gh",
+  "phoneNumber": "+233-302-768-970",
+  "address": "Gamel Abdul Nasser Avenue, Ridge, Accra",
+  "mandate": "To regulate and promote the growth and development of an efficient and fair securities market in Ghana",
+  "regulatedEntities": 124,
+  "licensedBrokers": 28,
+  "listedCompanies": 38,
+  "currency": "GHS"
+}

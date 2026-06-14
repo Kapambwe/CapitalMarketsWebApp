@@ -1,0 +1,20 @@
+{
+  "botswana": {
+    "Market-Place": ["Botswana Stock Exchange"],
+    "Institutional-Investors": ["Bifm", "Stanbic Bank Botswana"],
+    "Retailers": ["First National Bank", "Absa Bank Botswana"]
+  },
+  "zambia": {
+    "Market-Place": ["Lusaka Securities Exchange", "Pangaea Securities", "Madison Assets"],
+    "Institutional-Investors": ["NAPSA", "Public Service Pension Fund"],
+    "Individual-Investors": ["Chanda Mumba", "Kondwani Phiri", "Mwansa Chilufya"],
+    "Retailers": ["Standard Chartered Zambia", "Zanaco"],
+    "Regulator": ["SEC Zambia", "Bank of Zambia"]
+  },
+  "nigeria": {
+    "Market-Place": ["Nigerian Exchange Group"],
+    "Institutional-Investors": ["Stanbic IBTC", "Chapel Hill Denham"],
+    "Retailers": ["First Bank of Nigeria"],
+    "Regulator": ["SEC Nigeria"]
+  }
+}

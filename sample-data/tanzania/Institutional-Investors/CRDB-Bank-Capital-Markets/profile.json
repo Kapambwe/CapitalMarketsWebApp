@@ -1,0 +1,11 @@
+{
+  "investorId": "II-TZ-004",
+  "name": "CRDB Bank Capital Markets",
+  "type": "Asset Manager",
+  "country": "Tanzania",
+  "assetsUnderManagement": 2100000000000.0,
+  "currency": "TZS",
+  "establishedDate": "2008-03-15T00:00:00Z",
+  "members": 50000,
+  "investmentStrategy": "Active portfolio management with brokerage services on the Dar es Salaam Stock Exchange"
+}

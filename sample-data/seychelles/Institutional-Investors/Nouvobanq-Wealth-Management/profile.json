@@ -1,0 +1,11 @@
+{
+  "investorId": "II-SC-004",
+  "name": "Nouvobanq Wealth Management",
+  "type": "Asset Manager",
+  "country": "Seychelles",
+  "assetsUnderManagement": 1050000000.0,
+  "currency": "SCR",
+  "establishedDate": "2015-09-01T00:00:00Z",
+  "members": 3500,
+  "investmentStrategy": "Personalized wealth management with focus on international fund access and local fixed income"
+}

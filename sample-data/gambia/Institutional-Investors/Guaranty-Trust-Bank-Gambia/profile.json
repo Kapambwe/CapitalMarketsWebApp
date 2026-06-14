@@ -1,0 +1,11 @@
+{
+  "investorId": "II-GM-002",
+  "name": "Guaranty Trust Bank Gambia",
+  "type": "Asset Manager",
+  "country": "Gambia",
+  "assetsUnderManagement": 2100000000.0,
+  "currency": "GMD",
+  "establishedDate": "2006-04-15T00:00:00Z",
+  "members": 8000,
+  "investmentStrategy": "Fixed income and money market focused portfolio management"
+}

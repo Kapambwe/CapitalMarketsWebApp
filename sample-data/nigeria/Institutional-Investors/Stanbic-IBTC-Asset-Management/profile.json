@@ -1,0 +1,34 @@
+{
+  "investorId": "II-NG-002",
+  "name": "Stanbic IBTC Asset Management",
+  "type": "Asset Management Company",
+  "country": "Nigeria",
+  "countryCode": "NG",
+  "assetsUnderManagement": 1200000000000.0,
+  "currency": "NGN",
+  "establishedDate": "1992-01-01T00:00:00Z",
+  "clients": 125000,
+  "website": "https://www.stanbicibtcassetmanagement.com",
+  "investmentStrategy": "Active portfolio management across multiple asset classes",
+  "portfolioAllocation": [
+    {
+      "assetClass": "Fixed Income",
+      "percentage": 0.45
+    },
+    {
+      "assetClass": "Equity",
+      "percentage": 0.30
+    },
+    {
+      "assetClass": "Money Market",
+      "percentage": 0.15
+    },
+    {
+      "assetClass": "Alternative Investments",
+      "percentage": 0.10
+    }
+  ],
+  "annualReturn": 0.128,
+  "contactEmail": "assetmanagement@stanbicibtc.com",
+  "phoneNumber": "+234-1-4227000"
+}

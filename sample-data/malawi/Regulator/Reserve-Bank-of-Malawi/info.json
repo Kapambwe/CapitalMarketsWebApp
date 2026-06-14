@@ -1,0 +1,10 @@
+{
+  "regulatorId": "REG-MW-001",
+  "name": "Reserve Bank of Malawi - Capital Markets Division",
+  "country": "Malawi",
+  "establishedDate": "1965-06-01T00:00:00Z",
+  "website": "https://www.rbm.mw",
+  "contactEmail": "info@rbm.mw",
+  "mandate": "Regulate capital markets and promote financial stability in Malawi",
+  "regulatedEntities": 85
+}

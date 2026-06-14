@@ -1,0 +1,11 @@
+{
+  "investorId": "II-MU-004",
+  "name": "SBM Fund Services",
+  "type": "Asset Manager",
+  "country": "Mauritius",
+  "assetsUnderManagement": 25000000000.0,
+  "currency": "MUR",
+  "establishedDate": "2008-06-01T00:00:00Z",
+  "members": 12000,
+  "investmentStrategy": "Global fund administration and investment management with African market specialization"
+}

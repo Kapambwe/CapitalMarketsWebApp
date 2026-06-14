@@ -1,0 +1,18 @@
+[
+  {
+    "id": "bn-001",
+    "fundingRequestId": "fr-001",
+    "requestTitle": "Maize Expansion Project",
+    "description": "Environmental impact assessment document is overdue.",
+    "severity": "High",
+    "detectedAt": "2026-06-08T10:00:00Z"
+  },
+  {
+    "id": "bn-002",
+    "fundingRequestId": "fr-002",
+    "requestTitle": "Manufacturing Equipment Upgrade",
+    "description": "Investor due diligence taking longer than expected.",
+    "severity": "Medium",
+    "detectedAt": "2026-06-11T14:30:00Z"
+  }
+]

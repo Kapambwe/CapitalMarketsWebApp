@@ -1,0 +1,28 @@
+{
+  "investorId": "RET-NG-002",
+  "fullName": "Amina Bello",
+  "country": "Nigeria",
+  "countryCode": "NG",
+  "city": "Abuja",
+  "registrationDate": "2022-09-18T00:00:00Z",
+  "investorType": "Individual",
+  "age": 31,
+  "occupation": "Entrepreneur",
+  "riskProfile": "Moderate",
+  "investmentHorizon": "Medium-term (5-10 years)",
+  "portfolioValue": 8500000.0,
+  "currency": "NGN",
+  "monthlyContribution": 200000.0,
+  "investmentGoals": [
+    "Business Expansion",
+    "Children's Education",
+    "Investment Property"
+  ],
+  "preferredInvestments": [
+    "Fixed Income",
+    "Money Market Funds",
+    "Corporate Bonds"
+  ],
+  "email": "amina.bello@business.ng",
+  "phoneNumber": "+234-805-2345678"
+}

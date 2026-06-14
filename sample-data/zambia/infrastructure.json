@@ -1,0 +1,57 @@
+{
+  "Projects": [
+    { "projectId": "PPP-001", "name": "Lusaka-Ndola Dual Carriageway", "category": 3, "status": 1, "budget": 1200000000.0, "completionPercentage": 45.5, "province": "Central" },
+    { "projectId": "PPP-002", "name": "Kafue Gorge Lower Hydro", "category": 2, "status": 2, "budget": 2300000000.0, "completionPercentage": 100.0, "province": "Southern" },
+    { "projectId": "PPP-003", "name": "Solar Irrigation Cluster - Choma", "category": 1, "status": 0, "budget": 45000000.0, "completionPercentage": 0.0, "province": "Southern" },
+    { "projectId": "PPP-004", "name": "Copperbelt Multi-Facility Zone", "category": 4, "status": 1, "budget": 850000000.0, "completionPercentage": 68.2, "province": "Copperbelt" },
+    { "projectId": "PPP-005", "name": "Mansa Biofuel Plant", "category": 2, "status": 1, "budget": 120000000.0, "completionPercentage": 15.0, "province": "Luapula" },
+    { "projectId": "PPP-006", "name": "Livingstone Tourism Airport", "category": 3, "status": 0, "budget": 350000000.0, "completionPercentage": 5.0, "province": "Southern" },
+    { "projectId": "PPP-007", "name": "Solwezi Smart City Fiber", "category": 5, "status": 1, "budget": 65000000.0, "completionPercentage": 85.0, "province": "North-Western" },
+    { "projectId": "PPP-008", "name": "Kazungula Bridge Logistics Hub", "category": 10, "status": 1, "budget": 210000000.0, "completionPercentage": 32.0, "province": "Southern" },
+    { "projectId": "PPP-009", "name": "Kitwe Industrial Water Supply", "category": 11, "status": 1, "budget": 180000000.0, "completionPercentage": 55.0, "province": "Copperbelt" },
+    { "projectId": "PPP-010", "name": "Eastern Province Grain Silos", "category": 1, "status": 2, "budget": 95000000.0, "completionPercentage": 100.0, "province": "Eastern" },
+    { "projectId": "PPP-011", "name": "National Data Center - Phase 2", "category": 5, "status": 1, "budget": 140000000.0, "completionPercentage": 40.0, "province": "Lusaka" },
+    { "projectId": "PPP-012", "name": "Mongu Cashew Processing", "category": 1, "status": 0, "budget": 38000000.0, "completionPercentage": 0.0, "province": "Western" }
+  ],
+  "Verifications": [
+    { 
+        "verificationId": "V-001", 
+        "projectName": "Lusaka-Ndola Dual Carriageway", 
+        "milestoneName": "Phase 1 Foundation", 
+        "status": 0, 
+        "verifiedAt": "2026-05-01T10:00:00Z",
+        "engineerId": "ENG-77",
+        "engineerName": "Sarah Mwansa"
+    },
+    { 
+        "verificationId": "V-002", 
+        "projectName": "Kafue Gorge Lower Power Station", 
+        "milestoneName": "Turbine Installation", 
+        "status": 1, 
+        "verifiedAt": "2026-04-28T14:30:00Z",
+        "engineerId": "ENG-102",
+        "engineerName": "John Phiri",
+        "signerDID": "did:ethr:0x789...inf",
+        "digitalSignature": "SIG_INF_A1B2C3D4E5F6G7H8",
+        "txHash": "0x55a66b77c88d99e00f11g22h33i44j55"
+    },
+    { 
+        "verificationId": "V-003", 
+        "projectName": "Copperbelt Special Economic Zone", 
+        "milestoneName": "Grid Connectivity", 
+        "status": 2, 
+        "verifiedAt": "2026-05-02T09:15:00Z",
+        "engineerId": "ENG-45",
+        "engineerName": "Bwalya Chilufya",
+        "notes": "Insufficient evidence of load testing."
+    }
+  ],
+  "Bonds": [
+    { "bondId": "BND-INF-001", "projectId": "PPP-001", "symbol": "INFRA26", "notionalValue": 100000000.0, "couponRate": 12.5, "maturityDate": "2036-05-03T00:00:00Z" }
+  ],
+  "Milestones": [
+    { "milestoneId": "M1", "projectId": "PPP-001", "name": "Site Clearing", "weight": 10.0, "percentComplete": 100.0, "isCompleted": true },
+    { "milestoneId": "M2", "projectId": "PPP-001", "name": "Foundation Works", "weight": 25.0, "percentComplete": 100.0, "isCompleted": true },
+    { "milestoneId": "M3", "projectId": "PPP-001", "name": "Structural Phase 1", "weight": 30.0, "percentComplete": 0.0, "isCompleted": false }
+  ]
+}

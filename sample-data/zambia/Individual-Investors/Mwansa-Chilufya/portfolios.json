@@ -1,0 +1,9 @@
+{
+  "id": "port-mwansa",
+  "owner": "Mwansa Chilufya",
+  "holdings": [
+    { "symbol": "HONEY-E", "quantity": 500, "costBasis": 85.00, "marketPrice": 88.00 },
+    { "symbol": "AGRX", "quantity": 1000, "costBasis": 76.50, "marketPrice": 78.42 },
+    { "symbol": "OIL-WBU", "quantity": 200, "costBasis": 242.00, "marketPrice": 250.00 }
+  ]
+}

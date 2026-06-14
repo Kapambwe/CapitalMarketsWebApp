@@ -1,0 +1,80 @@
+[
+  { 
+    "id": "ZSMEG", "symbol": "ZSMEG", "name": "Zambia SME Growth ETF", "type": "ETF", "industry": "Multi-sector", "issuerId": "luse-001", "issuerName": "Lusaka Securities Exchange", 
+    "valuation": 125.60, "riskScore": 25.5, "status": "Listed", "currency": "ZMW", 
+    "publicationReason": "To provide broad exposure to the Zambian SME sector and foster economic growth.", "regulatoryStatus": "Approved",
+    "properties": { "NAV": "124.50", "UnitsOutstanding": "1,000,000", "ExpenseRatio": "0.75%", "ESGTags": "Sustainable, SME" },
+    "impact": { "jobsCreated": 1500, "revenueUplift": 25000000, "importReplacement": 5000000 },
+    "eligibleFundingSources": [ "InstitutionalInvestor", "CitizenInvestor" ]
+  },
+  { 
+    "id": "POW-PLUMB-001", "symbol": "POW-PLB", "name": "Plumbing Installation Unit - Block A", "type": "ProofOfWork", "industry": "Construction", "issuerId": "plumb-sme-001", "issuerName": "Elite Plumbing Services", 
+    "valuation": 12500.00, "riskScore": 15.0, "status": "Active", "currency": "USD", 
+    "publicationReason": "Verifiable plumbing milestone for Lusaka Housing Project.", "regulatoryStatus": "Approved",
+    "properties": { "Trade": "Plumbing", "WorkType": "Reticulation & Fixtures", "FixturesInstalled": "45 units", "PressureTest": "Passed", "Location": "Lusaka Block A" },
+    "impact": { "jobsCreated": 8, "revenueUplift": 25000 },
+    "eligibleFundingSources": [ "CommercialBank", "EmpowermentFund" ],
+    "backedBy": [ "Lusaka Housing Authority" ],
+    "signatureChain": { 
+      "signatures": [
+        { "role": "Artisan", "actor": "Main Plumber", "actorId": "art-plb-01", "signature": "sig_plb_1", "timestamp": "2026-06-05T10:00:00Z" },
+        { "role": "Verifier", "actor": "Site Engineer", "actorId": "eng-01", "signature": "sig_plb_2", "previousSignature": "sig_plb_1", "timestamp": "2026-06-06T14:30:00Z" },
+        { "role": "ThirdPartyInspector", "actor": "SGS Quality Assurance", "actorId": "sgs-001", "signature": "sig_plb_3", "previousSignature": "sig_plb_2", "timestamp": "2026-06-07T09:00:00Z" }
+      ],
+      "isVerified": true 
+    }
+  },
+  { 
+    "id": "PPP-SOLAR-MUMBWA", "symbol": "PPP-SOL", "name": "Mumbwa Solar Mini-Grid PPP", "type": "ProjectStake", "industry": "Energy", "issuerId": "mumbwa-council-01", "issuerName": "Mumbwa District Council", 
+    "valuation": 2500000.00, "riskScore": 25.0, "status": "Active", "currency": "USD", 
+    "publicationReason": "Public-Private Partnership for 2MW solar micro-grid serving 5,000 households.", "regulatoryStatus": "Approved",
+    "properties": { "PrivatePartner": "EcoPower Ltd", "PublicPartner": "Mumbwa Council", "ConcessionTenor": "20 Years", "IRR": "14.5%" },
+    "impact": { "jobsCreated": 45, "revenueUplift": 500000, "carbonOffset": 2500, "socialImpactSummary": "Provides clean energy to 25,000 people." },
+    "eligibleFundingSources": [ "DevelopmentFinance", "InstitutionalInvestor" ],
+    "backedBy": [ "IDC Zambia", "EcoPower Ltd" ],
+    "signatureChain": { 
+      "signatures": [
+        { "role": "Public", "actor": "District Commissioner", "actorId": "gov-dc-01", "signature": "sig_ppp_1", "timestamp": "2026-04-10T10:00:00Z" },
+        { "role": "Private", "actor": "CEO EcoPower", "actorId": "eco-ceo", "signature": "sig_ppp_2", "previousSignature": "sig_ppp_1", "timestamp": "2026-04-12T14:30:00Z" },
+        { "role": "ThirdPartyInspector", "actor": "Deloitte Infrastructure", "actorId": "del-infra-01", "signature": "sig_ppp_3", "previousSignature": "sig_ppp_2", "timestamp": "2026-04-14T11:00:00Z" },
+        { "role": "Regulator", "actor": "ERB Zambia", "actorId": "erb-01", "signature": "sig_ppp_4", "previousSignature": "sig_ppp_3", "timestamp": "2026-04-15T09:00:00Z" }
+      ],
+      "isVerified": true 
+    }
+  },
+  { 
+    "id": "TOK-GOLD", "symbol": "MIN-GLD", "name": "Artisanal Gold Bullion Token", "type": "Mineral_Token", "industry": "Mining", "issuerId": "mumbwa-gold-001", "issuerName": "Mumbwa Artisanal Coop", 
+    "valuation": 2350.00, "riskScore": 20.0, "status": "Active", "currency": "USD", 
+    "publicationReason": "Formalizing artisanal gold mining through verifiable digital ownership.", "regulatoryStatus": "Approved",
+    "properties": { "Purity": "24K", "Unit": "Ounce", "Sourcing": "Fair-Trade Artisanal", "AssayRef": "AS-2026-99" },
+    "impact": { "jobsCreated": 45, "revenueUplift": 2500000 },
+    "eligibleFundingSources": [ "InstitutionalInvestor", "CitizenInvestor" ],
+    "backedBy": [ "Bank of Zambia" ],
+    "signatureChain": { 
+      "signatures": [
+        { "role": "Producer", "actor": "Mumbwa Coop", "actorId": "m-gold-01", "signature": "sig_gld_1", "timestamp": "2026-05-15T09:00:00Z" },
+        { "role": "ThirdPartyInspector", "actor": "Independent Assay Lab", "actorId": "ind-lab-01", "signature": "sig_gld_lab", "previousSignature": "sig_gld_1", "timestamp": "2026-05-16T14:00:00Z" },
+        { "role": "Verifier", "actor": "Bank of Zambia Assay", "actorId": "boz-001", "signature": "sig_gld_2", "previousSignature": "sig_gld_lab", "timestamp": "2026-05-18T11:00:00Z" }
+      ],
+      "isVerified": true 
+    }
+  },
+  { 
+    "id": "SME-BND-GRN", "symbol": "SME-GRN", "name": "SME Green Energy Bond", "type": "Bond", "industry": "Energy", "issuerId": "re-dev-001", "issuerName": "Rural Electrification Authority", 
+    "valuation": 1000.00, "riskScore": 22.0, "status": "Active", "currency": "USD", 
+    "publicationReason": "Financing small-scale solar and hydro projects for rural SMEs.", "regulatoryStatus": "Approved",
+    "properties": { "MaturityDate": "2031-12-31", "CouponRate": "6.5%", "GreenCertification": "ZEMA-Verified" },
+    "impact": { "jobsCreated": 200, "revenueUplift": 3000000, "carbonOffset": 1500 },
+    "eligibleFundingSources": [ "CommercialBank", "DevelopmentFinance", "EmpowermentFund" ],
+    "backedBy": [ "Development Bank of Zambia" ]
+  },
+  { 
+    "id": "TOK-COPPER", "symbol": "MIN-COP", "name": "Refined Copper Cathode Token", "type": "Mineral_Token", "industry": "Mining", "issuerId": "solwezi-ref-001", "issuerName": "Solwezi Refining Hub", 
+    "valuation": 9200.00, "riskScore": 28.0, "status": "Active", "currency": "USD", 
+    "publicationReason": "Tokenized spot-price copper for trade finance and reserve management.", "regulatoryStatus": "Approved",
+    "properties": { "Grade": "A-Grade", "Purity": "99.99%", "Unit": "Metric Ton", "WarehouseId": "WH-SLZ-01" },
+    "impact": { "jobsCreated": 150, "revenueUplift": 15000000 },
+    "eligibleFundingSources": [ "InstitutionalInvestor", "CommercialBank" ],
+    "backedBy": [ "Solwezi Refining Hub" ]
+  }
+]

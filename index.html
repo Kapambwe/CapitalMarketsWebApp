@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CapitalMarketsWebApp</title>
+    <base href="/CapitalMarketsWebApp/" />
+    <link href="_framework/dotnet.u7z4i7hzyn.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-Sil8hXcu93sy2I53yqfKNtKgDphceJRJdHztJiDJoLU=" />
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="_content/Radzen.Blazor/css/material-base.css">
+    <link rel="stylesheet" href="css/app.css" />
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="CapitalMarketsWebApp.styles.css" rel="stylesheet" />
+    
+    <script type="importmap">{
+  "imports": {
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.66stpp682q.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.wq5toy4mf1.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.a6jcqbs390.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.u7z4i7hzyn.js"
+  },
+  "scopes": {},
+  "integrity": {
+    "./_framework/blazor.webassembly.66stpp682q.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
+    "./_framework/blazor.webassembly.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
+    "./_framework/dotnet.js": "sha256-Sil8hXcu93sy2I53yqfKNtKgDphceJRJdHztJiDJoLU=",
+    "./_framework/dotnet.native.js": "sha256-WGKuaVZHNCQJJ5NcB4x6tMiZNhZr3E2SuuVqqOsDFnI=",
+    "./_framework/dotnet.native.wq5toy4mf1.js": "sha256-WGKuaVZHNCQJJ5NcB4x6tMiZNhZr3E2SuuVqqOsDFnI=",
+    "./_framework/dotnet.runtime.a6jcqbs390.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
+    "./_framework/dotnet.runtime.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
+    "./_framework/dotnet.u7z4i7hzyn.js": "sha256-Sil8hXcu93sy2I53yqfKNtKgDphceJRJdHztJiDJoLU="
+  }
+}</script>
+</head>
+
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">🗙</span>
+    </div>
+    <script src="_framework/blazor.webassembly.66stpp682q.js"></script>
+    <script src="_content/Radzen.Blazor/Radzen.Blazor.js?v=@(typeof(Radzen.Colors).Assembly.GetName().Version)"></script>
+</body>
+
+</html>

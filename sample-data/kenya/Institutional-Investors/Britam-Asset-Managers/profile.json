@@ -1,0 +1,34 @@
+{
+  "investorId": "II-KE-002",
+  "name": "Britam Asset Managers",
+  "type": "Asset Management Company",
+  "country": "Kenya",
+  "countryCode": "KE",
+  "assetsUnderManagement": 85000000000.0,
+  "currency": "KES",
+  "establishedDate": "2010-01-01T00:00:00Z",
+  "clients": 45000,
+  "website": "https://www.britam.com",
+  "investmentStrategy": "Active management across equities, fixed income, and alternative investments",
+  "portfolioAllocation": [
+    {
+      "assetClass": "Equity",
+      "percentage": 0.35
+    },
+    {
+      "assetClass": "Fixed Income",
+      "percentage": 0.40
+    },
+    {
+      "assetClass": "Money Market",
+      "percentage": 0.15
+    },
+    {
+      "assetClass": "Alternative Investments",
+      "percentage": 0.10
+    }
+  ],
+  "annualReturn": 0.112,
+  "contactEmail": "assetmanagers@britam.com",
+  "phoneNumber": "+254-20-2806000"
+}

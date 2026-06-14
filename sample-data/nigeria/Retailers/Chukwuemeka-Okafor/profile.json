@@ -1,0 +1,28 @@
+{
+  "investorId": "RET-NG-001",
+  "fullName": "Chukwuemeka Okafor",
+  "country": "Nigeria",
+  "countryCode": "NG",
+  "city": "Lagos",
+  "registrationDate": "2021-05-12T00:00:00Z",
+  "investorType": "Individual",
+  "age": 36,
+  "occupation": "Financial Analyst",
+  "riskProfile": "Moderate-Aggressive",
+  "investmentHorizon": "Long-term (10+ years)",
+  "portfolioValue": 15000000.0,
+  "currency": "NGN",
+  "monthlyContribution": 350000.0,
+  "investmentGoals": [
+    "Wealth Accumulation",
+    "Real Estate Investment",
+    "Early Retirement"
+  ],
+  "preferredInvestments": [
+    "Equity",
+    "Mutual Funds",
+    "Treasury Bills"
+  ],
+  "email": "c.okafor@finance.ng",
+  "phoneNumber": "+234-803-1234567"
+}

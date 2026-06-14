@@ -1,0 +1,12 @@
+[
+  { "id": "agri-1", "name": "Agriculture - Loan Underwriting", "industry": "Agriculture", "dataTypes": ["BankStatements", "ExpectedYield", "TransactionReceipts"], "frequency": 1, "description": "Data commonly requested for short-term working capital and underwriting for farmers." },
+  { "id": "sme-1", "name": "SME - Working Capital", "industry": "SME", "dataTypes": ["MonthlyFinancialStatements", "BankStatements", "Invoices"], "frequency": 1, "description": "Common dataset for SME working capital underwriting." },
+  { "id": "mine-1", "name": "Mining - Royalty Verification", "industry": "Mining", "dataTypes": ["ProductionLogs", "ExportPermits", "BankStatements"], "frequency": 1, "description": "Standard data required for mining royalty verification and tokenization." },
+  { "id": "infra-1", "name": "Infrastructure - Milestone Proof", "industry": "Infrastructure", "dataTypes": ["SitePhotos", "EngineerCertificates", "VendorInvoices"], "frequency": 1, "description": "Consent for verifying construction milestones for PPP bonds." },
+  { "id": "gov-1", "name": "Government - SOE Audit", "industry": "Government", "dataTypes": ["AuditedAccounts", "DebtSchedule", "TariffModel"], "frequency": 2, "description": "Periodic disclosure for State-Owned Enterprise fiscal risk monitoring." },
+  { "id": "invest-1", "name": "Investor - KYC Refresh", "industry": "Financials", "dataTypes": ["IdentityDocument", "ProofOfAddress", "TaxID"], "frequency": 3, "description": "Annual KYC update for retail and institutional investors." },
+  { "id": "trade-1", "name": "Trading - Best Execution", "industry": "Capital-Markets", "dataTypes": ["OrderHistory", "TradeConfirmation"], "frequency": 0, "description": "Real-time consent for auditing trade execution quality." },
+  { "id": "credit-1", "name": "Social Credit - Behavior Sync", "industry": "Multi-sector", "dataTypes": ["UtilityBills", "ComplianceRecord", "PublicServiceUsage"], "frequency": 1, "description": "Data sharing for calculating national social credit scores." },
+  { "id": "esg-1", "name": "ESG - Carbon Footprint", "industry": "Manufacturing", "dataTypes": ["EnergyUsage", "WasteReport", "EmployeeSafetyLog"], "frequency": 2, "description": "Annual disclosure for ESG rating and index eligibility." },
+  { "id": "audit-1", "name": "Regulator - Spot Check", "industry": "Regulator", "dataTypes": ["FullTransactionLedger", "BeneficialOwnerRegistry"], "frequency": 0, "description": "Ad-hoc access for regulatory spot audits and investigations." }
+]

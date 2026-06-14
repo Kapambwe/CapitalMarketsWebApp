@@ -1,0 +1,11 @@
+{
+  "investorId": "II-SC-002",
+  "name": "SACOS Insurance Group",
+  "type": "Insurance Fund",
+  "country": "Seychelles",
+  "assetsUnderManagement": 2100000000.0,
+  "currency": "SCR",
+  "establishedDate": "1979-05-01T00:00:00Z",
+  "members": 25000,
+  "investmentStrategy": "Conservative policyholder fund management in government bonds and property"
+}

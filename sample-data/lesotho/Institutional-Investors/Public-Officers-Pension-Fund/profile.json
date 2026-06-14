@@ -1,0 +1,11 @@
+{
+  "investorId": "II-LS-002",
+  "name": "Public Officers Defined Contribution Pension Fund",
+  "type": "Pension Fund",
+  "country": "Lesotho",
+  "assetsUnderManagement": 5400000000.0,
+  "currency": "LSL",
+  "establishedDate": "2008-04-01T00:00:00Z",
+  "members": 55000,
+  "investmentStrategy": "Long-term growth through balanced domestic and South African market investments"
+}

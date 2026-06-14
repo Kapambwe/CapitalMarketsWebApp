@@ -1,0 +1,17 @@
+{
+  "Filings": [
+    { "filingId": "FIL-001", "entityId": "SME-001", "entityName": "AgroTech Zambia", "filingType": "Annual Report", "regulatoryBody": "SEC", "status": 1, "dueDate": "2026-04-28T00:00:00Z", "submittedDate": "2026-04-27T00:00:00Z" },
+    { "filingId": "FIL-002", "entityId": "SME-002", "entityName": "Copperbelt Miners", "filingType": "Quarterly Disclosure", "regulatoryBody": "LuSE", "status": 0, "dueDate": "2026-05-13T00:00:00Z" },
+    { "filingId": "FIL-003", "entityId": "SOE-001", "entityName": "ZESCO", "filingType": "Tariff Review", "regulatoryBody": "ERB", "status": 4, "dueDate": "2026-05-01T00:00:00Z" },
+    { "filingId": "FIL-004", "entityId": "SME-005", "entityName": "Choma Grain Mills", "filingType": "Tax Compliance", "regulatoryBody": "ZRA", "status": 1, "dueDate": "2026-04-30T00:00:00Z", "submittedDate": "2026-04-29T00:00:00Z" },
+    { "filingId": "FIL-005", "entityId": "SOE-002", "entityName": "Zamtel", "filingType": "Financial Audit", "regulatoryBody": "Ministry of Finance", "status": 0, "dueDate": "2026-06-30T00:00:00Z" }
+  ],
+  "Cases": [
+    { "caseId": "CASE-001", "title": "Potential Market Manipulation", "description": "Unusual trading volume detected in SME-001 bonds.", "severity": 2, "status": 1, "assignedTo": "John Doe", "createdAt": "2026-05-01T10:00:00Z" },
+    { "caseId": "CASE-002", "title": "Late ESG Filing", "description": "SOE-002 has not submitted their annual ESG disclosure.", "severity": 1, "status": 0, "assignedTo": "Jane Smith", "createdAt": "2026-05-02T10:00:00Z" }
+  ],
+  "ESGDisclosures": [
+    { "entityId": "SME-001", "entityName": "AgroTech Zambia", "environmentalScore": 85.0, "socialScore": 78.0, "governanceScore": 92.0, "rating": "AA", "lastUpdated": "2026-04-03T00:00:00Z" },
+    { "entityId": "SME-005", "entityName": "Choma Grain Mills", "environmentalScore": 65.0, "socialScore": 82.0, "governanceScore": 70.0, "rating": "B+", "lastUpdated": "2026-03-03T00:00:00Z" }
+  ]
+}

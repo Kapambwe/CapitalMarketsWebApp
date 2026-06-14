@@ -1,0 +1,28 @@
+{
+  "investorId": "RET-ZM-001",
+  "fullName": "Chanda Mwale",
+  "country": "Zambia",
+  "countryCode": "ZM",
+  "city": "Lusaka",
+  "registrationDate": "2021-04-10T00:00:00Z",
+  "investorType": "Individual",
+  "age": 35,
+  "occupation": "Accountant",
+  "riskProfile": "Moderate",
+  "investmentHorizon": "Long-term (10+ years)",
+  "portfolioValue": 850000.0,
+  "currency": "ZMW",
+  "monthlyContribution": 18000.0,
+  "investmentGoals": [
+    "Retirement Planning",
+    "Home Purchase",
+    "Children's Education"
+  ],
+  "preferredInvestments": [
+    "Government Bonds",
+    "Balanced Funds",
+    "Money Market"
+  ],
+  "email": "chanda.mwale@accounting.zm",
+  "phoneNumber": "+260-977-123456"
+}

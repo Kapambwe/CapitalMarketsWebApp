@@ -1,0 +1,34 @@
+{
+  "investorId": "II-NG-001",
+  "name": "ARM Pension Managers",
+  "type": "Pension Fund Administrator",
+  "country": "Nigeria",
+  "countryCode": "NG",
+  "assetsUnderManagement": 850000000000.0,
+  "currency": "NGN",
+  "establishedDate": "2005-01-01T00:00:00Z",
+  "members": 450000,
+  "website": "https://www.armpension.com",
+  "investmentStrategy": "Diversified portfolio with emphasis on capital preservation and steady growth",
+  "portfolioAllocation": [
+    {
+      "assetClass": "Federal Government Securities",
+      "percentage": 0.55
+    },
+    {
+      "assetClass": "Equity",
+      "percentage": 0.20
+    },
+    {
+      "assetClass": "Corporate Bonds",
+      "percentage": 0.15
+    },
+    {
+      "assetClass": "Money Market",
+      "percentage": 0.10
+    }
+  ],
+  "annualReturn": 0.105,
+  "contactEmail": "info@armpension.com",
+  "phoneNumber": "+234-1-2701653"
+}

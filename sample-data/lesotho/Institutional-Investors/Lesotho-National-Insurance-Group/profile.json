@@ -1,0 +1,11 @@
+{
+  "investorId": "II-LS-001",
+  "name": "Lesotho National Insurance Group",
+  "type": "Insurance Fund",
+  "country": "Lesotho",
+  "assetsUnderManagement": 3200000000.0,
+  "currency": "LSL",
+  "establishedDate": "1977-06-01T00:00:00Z",
+  "members": 120000,
+  "investmentStrategy": "Conservative investment in government bonds and regional property assets"
+}

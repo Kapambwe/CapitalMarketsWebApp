@@ -1,0 +1,28 @@
+{
+  "investorId": "RET-NG-003",
+  "fullName": "Oluwaseun Adeyemi",
+  "country": "Nigeria",
+  "countryCode": "NG",
+  "city": "Port Harcourt",
+  "registrationDate": "2020-03-25T00:00:00Z",
+  "investorType": "Individual",
+  "age": 44,
+  "occupation": "Engineer",
+  "riskProfile": "Conservative",
+  "investmentHorizon": "Long-term (10+ years)",
+  "portfolioValue": 12000000.0,
+  "currency": "NGN",
+  "monthlyContribution": 280000.0,
+  "investmentGoals": [
+    "Retirement Planning",
+    "Children's University Education",
+    "Emergency Fund"
+  ],
+  "preferredInvestments": [
+    "Government Bonds",
+    "Fixed Deposits",
+    "Treasury Bills"
+  ],
+  "email": "o.adeyemi@engineering.ng",
+  "phoneNumber": "+234-807-3456789"
+}

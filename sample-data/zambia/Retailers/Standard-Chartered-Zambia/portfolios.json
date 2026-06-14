@@ -1,0 +1,16 @@
+{
+  "id": "port-stanchart",
+  "owner": "Standard Chartered Zambia",
+  "holdings": [
+    { "symbol": "COPPER-T", "quantity": 5000, "costBasis": 1475.00, "marketPrice": 1500.00 },
+    { "symbol": "TEX-PBU", "quantity": 10000, "costBasis": 52.50, "marketPrice": 55.00 },
+    { "symbol": "CLOTH-I", "quantity": 25000, "costBasis": 18.50, "marketPrice": 20.00 },
+    { "symbol": "SPARE-V", "quantity": 8000, "costBasis": 76.00, "marketPrice": 75.50 },
+    { "symbol": "DRIP-I", "quantity": 2000, "costBasis": 440.00, "marketPrice": 450.00 },
+    { "symbol": "OIL-WBU", "quantity": 4000, "costBasis": 245.00, "marketPrice": 250.00 },
+    { "symbol": "FURN-RSN", "quantity": 5000, "costBasis": 100.50, "marketPrice": 102.00 },
+    { "symbol": "SMEB1", "quantity": 15000, "costBasis": 99.20, "marketPrice": 99.70 },
+    { "symbol": "METAL-R", "quantity": 3000, "costBasis": 208.00, "marketPrice": 210.00 },
+    { "symbol": "PUMP-H", "quantity": 1000, "costBasis": 1225.00, "marketPrice": 1250.00 }
+  ]
+}

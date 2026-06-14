@@ -1,0 +1,10 @@
+{
+  "regulatorId": "REG-TZ-001",
+  "name": "Capital Markets and Securities Authority Tanzania",
+  "country": "Tanzania",
+  "establishedDate": "1994-12-01T00:00:00Z",
+  "website": "https://www.cmsa.go.tz",
+  "contactEmail": "dg@cmsa.go.tz",
+  "mandate": "Promote and regulate the securities industry and capital markets in Tanzania",
+  "regulatedEntities": 180
+}

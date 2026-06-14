@@ -1,0 +1,38 @@
+{
+  "investorId": "II-ZA-001",
+  "name": "Public Investment Corporation",
+  "type": "Asset Management Company",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "assetsUnderManagement": 2400000000000.0,
+  "currency": "ZAR",
+  "establishedDate": "1911-01-01T00:00:00Z",
+  "clients": 1200000,
+  "website": "https://www.pic.gov.za",
+  "investmentStrategy": "Long-term value investing across listed and unlisted assets",
+  "portfolioAllocation": [
+    {
+      "assetClass": "Listed Equity",
+      "percentage": 0.42
+    },
+    {
+      "assetClass": "Fixed Income",
+      "percentage": 0.28
+    },
+    {
+      "assetClass": "Property",
+      "percentage": 0.15
+    },
+    {
+      "assetClass": "Private Equity",
+      "percentage": 0.10
+    },
+    {
+      "assetClass": "Cash",
+      "percentage": 0.05
+    }
+  ],
+  "annualReturn": 0.098,
+  "contactEmail": "info@pic.gov.za",
+  "phoneNumber": "+27-12-742-0000"
+}

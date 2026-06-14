@@ -1,0 +1,6 @@
+[
+  { "id": "agri-1", "name": "Agriculture - Loan Underwriting", "industry": "Agriculture", "dataTypes": ["BankStatements", "ExpectedYield", "TransactionReceipts"], "frequency": 1, "description": "Data commonly requested for short-term working capital and underwriting for farmers." },
+  { "id": "sme-1", "name": "SME - Working Capital", "industry": "SME", "dataTypes": ["MonthlyFinancialStatements", "BankStatements", "Invoices"], "frequency": 1, "description": "Common dataset for SME working capital underwriting." },
+  { "id": "mine-1", "name": "Mining - Royalty Verification", "industry": "Mining", "dataTypes": ["ProductionLogs", "ExportPermits", "BankStatements"], "frequency": 1, "description": "Standard data required for mining royalty verification and tokenization." },
+  { "id": "infra-1", "name": "Infrastructure - Milestone Proof", "industry": "Infrastructure", "dataTypes": ["SitePhotos", "EngineerCertificates", "VendorInvoices"], "frequency": 1, "description": "Consent for verifying construction milestones for PPP bonds." }
+]

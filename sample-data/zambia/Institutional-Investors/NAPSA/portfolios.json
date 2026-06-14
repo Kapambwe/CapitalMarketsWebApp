@@ -1,0 +1,17 @@
+{
+  "id": "port-napsa",
+  "owner": "NAPSA Investment Hub",
+  "holdings": [
+    { "symbol": "ZSMEG", "quantity": 15000, "costBasis": 120.00, "marketPrice": 125.60 },
+    { "symbol": "ZMBND", "quantity": 50000, "costBasis": 100.50, "marketPrice": 102.15 },
+    { "symbol": "EQUIP-L", "quantity": 10000, "costBasis": 95.00, "marketPrice": 100.00 },
+    { "symbol": "ZES-B1", "quantity": 25000, "costBasis": 102.50, "marketPrice": 105.00 },
+    { "symbol": "LUS-M1", "quantity": 15000, "costBasis": 100.00, "marketPrice": 98.50 },
+    { "symbol": "HONEY-E", "quantity": 5000, "costBasis": 82.00, "marketPrice": 88.00 },
+    { "symbol": "AGRX", "quantity": 10000, "costBasis": 75.00, "marketPrice": 78.42 },
+    { "symbol": "MAIZE-HLN", "quantity": 100000, "costBasis": 9.80, "marketPrice": 10.50 },
+    { "symbol": "TIMB-B", "quantity": 2000, "costBasis": 110.00, "marketPrice": 112.00 },
+    { "symbol": "COPPER-T", "quantity": 1000, "costBasis": 1450.00, "marketPrice": 1500.00 },
+    { "symbol": "PUMP-H", "quantity": 500, "costBasis": 1200.00, "marketPrice": 1250.00 }
+  ]
+}

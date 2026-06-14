@@ -1,0 +1,11 @@
+{
+  "investorId": "II-LR-001",
+  "name": "National Social Security and Welfare Corporation",
+  "type": "Pension Fund",
+  "country": "Liberia",
+  "assetsUnderManagement": 15000000000.0,
+  "currency": "LRD",
+  "establishedDate": "1975-01-15T00:00:00Z",
+  "members": 200000,
+  "investmentStrategy": "Conservative investment in government treasury bills and real estate"
+}

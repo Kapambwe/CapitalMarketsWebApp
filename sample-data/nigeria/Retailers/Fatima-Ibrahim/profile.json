@@ -1,0 +1,28 @@
+{
+  "investorId": "RET-NG-004",
+  "fullName": "Fatima Ibrahim",
+  "country": "Nigeria",
+  "countryCode": "NG",
+  "city": "Kano",
+  "registrationDate": "2023-02-14T00:00:00Z",
+  "investorType": "Individual",
+  "age": 28,
+  "occupation": "Pharmacist",
+  "riskProfile": "Moderate",
+  "investmentHorizon": "Long-term (10+ years)",
+  "portfolioValue": 5200000.0,
+  "currency": "NGN",
+  "monthlyContribution": 150000.0,
+  "investmentGoals": [
+    "Home Purchase",
+    "Business Startup",
+    "Retirement Savings"
+  ],
+  "preferredInvestments": [
+    "Mutual Funds",
+    "Money Market",
+    "Equity Funds"
+  ],
+  "email": "fatima.ibrahim@pharmacy.ng",
+  "phoneNumber": "+234-809-4567890"
+}

@@ -1,0 +1,11 @@
+{
+  "investorId": "II-RW-003",
+  "name": "SONARWA Insurance",
+  "type": "Insurance Fund",
+  "country": "Rwanda",
+  "assetsUnderManagement": 155000000000.0,
+  "currency": "RWF",
+  "establishedDate": "1975-01-01T00:00:00Z",
+  "members": 400000,
+  "investmentStrategy": "Conservative policyholder fund management with government treasury bond emphasis"
+}

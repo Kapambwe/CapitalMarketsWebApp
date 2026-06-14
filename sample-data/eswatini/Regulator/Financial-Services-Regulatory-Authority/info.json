@@ -1,0 +1,10 @@
+{
+  "regulatorId": "REG-SZ-001",
+  "name": "Financial Services Regulatory Authority",
+  "country": "Eswatini",
+  "establishedDate": "2010-07-01T00:00:00Z",
+  "website": "https://www.fsra.co.sz",
+  "contactEmail": "info@fsra.co.sz",
+  "mandate": "Regulate and supervise financial services in the Kingdom of Eswatini",
+  "regulatedEntities": 95
+}

@@ -1,0 +1,10 @@
+{
+  "regulatorId": "REG-SL-001",
+  "name": "Bank of Sierra Leone - Other Financial Institutions Supervision",
+  "country": "Sierra Leone",
+  "establishedDate": "1964-08-04T00:00:00Z",
+  "website": "https://www.bsl.gov.sl",
+  "contactEmail": "info@bsl.gov.sl",
+  "mandate": "Regulate financial institutions and promote financial stability in Sierra Leone",
+  "regulatedEntities": 55
+}
