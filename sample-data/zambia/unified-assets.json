@@ -4,7 +4,7 @@
     "valuation": 125.60, "riskScore": 25.5, "status": "Listed", "currency": "ZMW", 
     "publicationReason": "To provide broad exposure to the Zambian SME sector and foster economic growth.", "regulatoryStatus": "Approved",
     "properties": { "NAV": "124.50", "UnitsOutstanding": "1,000,000", "ExpenseRatio": "0.75%", "ESGTags": "Sustainable, SME" },
-    "impact": { "jobsCreated": 1500, "revenueUplift": 25000000, "importReplacement": 5000000 },
+    "impact": { "jobsCreated": 1500, "revenueUplift": 25000000, "importReplacement": 5000000, "carbonOffset": 1200 },
     "eligibleFundingSources": [ "InstitutionalInvestor", "CitizenInvestor" ]
   },
   { 
@@ -12,7 +12,7 @@
     "valuation": 12500.00, "riskScore": 15.0, "status": "Active", "currency": "USD", 
     "publicationReason": "Verifiable plumbing milestone for Lusaka Housing Project.", "regulatoryStatus": "Approved",
     "properties": { "Trade": "Plumbing", "WorkType": "Reticulation & Fixtures", "FixturesInstalled": "45 units", "PressureTest": "Passed", "Location": "Lusaka Block A" },
-    "impact": { "jobsCreated": 8, "revenueUplift": 25000 },
+    "impact": { "jobsCreated": 8, "revenueUplift": 25000, "importReplacement": 5000, "carbonOffset": 10 },
     "eligibleFundingSources": [ "CommercialBank", "EmpowermentFund" ],
     "backedBy": [ "Lusaka Housing Authority" ],
     "signatureChain": { 
@@ -76,5 +76,70 @@
     "impact": { "jobsCreated": 150, "revenueUplift": 15000000 },
     "eligibleFundingSources": [ "InstitutionalInvestor", "CommercialBank" ],
     "backedBy": [ "Solwezi Refining Hub" ]
+  },
+  { 
+    "id": "SUGAR-WR-001", "symbol": "SUGAR-W", "name": "Nakambala Sugar Receipt", "type": "WarehouseReceipt", "industry": "Agro-processing", "issuerId": "zambia-sugar-01", "issuerName": "Zambia Sugar PLC", 
+    "valuation": 15500.00, "riskScore": 12.0, "status": "Active", "currency": "ZMW", 
+    "publicationReason": "Collateralized storage for refined white sugar.", "regulatoryStatus": "Approved",
+    "properties": { "Quantity": "500 Metric Tons", "Quality": "Refined White", "Warehouse": "Mazabuka-WH1", "Expiry": "2026-12-31" },
+    "impact": { "jobsCreated": 25, "revenueUplift": 120000 },
+    "eligibleFundingSources": [ "CommercialBank" ],
+    "backedBy": [ "Zambia Sugar PLC" ]
+  },
+  { 
+    "id": "SCT-COPPER-LOG", "symbol": "SCT-COP", "name": "Copper Logistics Unit", "type": "SupplyChainFinance", "industry": "Logistics", "issuerId": "zambian-rail-01", "issuerName": "Zambia Railways Ltd", 
+    "valuation": 45000.00, "riskScore": 32.0, "status": "Active", "currency": "ZMW", 
+    "publicationReason": "Financing cross-border copper transport via Kasumbalesa.", "regulatoryStatus": "Approved",
+    "properties": { "Route": "Copperbelt to Durban", "Cargo": "Copper Cathodes", "Tonnage": "1200 Tons", "ExpectedArrival": "2026-07-15" },
+    "impact": { "jobsCreated": 12, "revenueUplift": 85000 },
+    "eligibleFundingSources": [ "InstitutionalInvestor", "DevelopmentFinance" ],
+    "backedBy": [ "KCM PLC", "Zambia Railways" ]
+  },
+  { 
+    "id": "POW-CONC-002", "symbol": "POW-CNC", "name": "Concrete Foundation - Block B", "type": "ProofOfWork", "industry": "Construction", "issuerId": "build-zambia-01", "issuerName": "BuildZambia Ltd", 
+    "valuation": 8500.00, "riskScore": 18.0, "status": "Active", "currency": "ZMW", 
+    "publicationReason": "Verified foundation milestone for SME Tech Park Ndola.", "regulatoryStatus": "Approved",
+    "properties": { "WorkType": "Reinforced Concrete", "Volume": "150 Cubic Meters", "CureTime": "28 Days", "TestResult": "35MPa" },
+    "impact": { "jobsCreated": 15, "revenueUplift": 45000 },
+    "eligibleFundingSources": [ "EmpowermentFund", "CommercialBank" ],
+    "signatureChain": { 
+      "signatures": [
+        { "role": "Artisan", "actor": "Foreman Zulu", "actorId": "f-zulu-01", "signature": "sig_cnc_1", "timestamp": "2026-05-20T10:00:00Z" },
+        { "role": "Verifier", "actor": "QC Engineer", "actorId": "qc-eng-01", "signature": "sig_cnc_2", "previousSignature": "sig_cnc_1", "timestamp": "2026-05-22T14:30:00Z" }
+      ],
+      "isVerified": true 
+    }
+  },
+  { 
+    "id": "TOK-MANGANESE", "symbol": "MIN-MAN", "name": "Manganese Ore Token", "type": "Mineral_Token", "industry": "Mining", "issuerId": "serenje-min-01", "issuerName": "Serenje Mining Coop", 
+    "valuation": 4200.00, "riskScore": 35.0, "status": "Active", "currency": "ZMW", 
+    "publicationReason": "Digitizing manganese ore stocks for community mining groups.", "regulatoryStatus": "Approved",
+    "properties": { "Grade": "High-Grade", "Content": "44-48% Mn", "Weight": "50 Tons", "Location": "Serenje Yard" },
+    "impact": { "jobsCreated": 60, "revenueUplift": 150000 },
+    "eligibleFundingSources": [ "CitizenInvestor", "EmpowermentFund" ],
+    "backedBy": [ "Ministry of Mines" ]
+  },
+  { 
+    "id": "POW-SOLAR-001", "symbol": "POW-SOL", "name": "Solar Hashrate Unit - Kariba", "type": "ProofOfWork", "industry": "Energy", "issuerId": "kariba-solar-01", "issuerName": "Kariba Solar Hub", 
+    "valuation": 150.00, "riskScore": 10.0, "status": "Active", "currency": "ZMW", 
+    "publicationReason": "Verifiable renewable energy generation unit for grid stability.", "regulatoryStatus": "Approved",
+    "properties": { "EnergySource": "Solar PV", "Capacity": "1 kWh/Unit", "Efficiency": "19.5%", "Location": "Siavonga" },
+    "impact": { "jobsCreated": 5, "revenueUplift": 12000, "carbonOffset": 500 },
+    "eligibleFundingSources": [ "CitizenInvestor", "InstitutionalInvestor" ],
+    "signatureChain": { 
+      "signatures": [
+        { "role": "Producer", "actor": "Plant Manager", "actorId": "pm-01", "signature": "sig_sol_1", "timestamp": "2026-06-10T10:00:00Z" },
+        { "role": "Verifier", "actor": "ERB Inspector", "actorId": "erb-ins-01", "signature": "sig_sol_2", "previousSignature": "sig_sol_1", "timestamp": "2026-06-11T14:30:00Z" }
+      ],
+      "isVerified": true 
+    }
+  },
+  { 
+    "id": "SCT-AGRO-001", "symbol": "SCT-AGR", "name": "Agro-Supply Chain Finance", "type": "SupplyChainFinance", "industry": "Agriculture", "issuerId": "zambia-agro-01", "issuerName": "Zambian Agro Corp", 
+    "valuation": 5.75, "riskScore": 40.0, "status": "Active", "currency": "ZMW", 
+    "publicationReason": "Financing smallholder fertilizer distribution cycles.", "regulatoryStatus": "Approved",
+    "properties": { "Product": "Fertilizer D-Compound", "Cycle": "Winter Sowing", "FarmersEnrolled": "250", "InsuranceRef": "AG-INS-88" },
+    "impact": { "jobsCreated": 120, "revenueUplift": 250000 },
+    "eligibleFundingSources": [ "EmpowermentFund", "CommercialBank" ]
   }
 ]

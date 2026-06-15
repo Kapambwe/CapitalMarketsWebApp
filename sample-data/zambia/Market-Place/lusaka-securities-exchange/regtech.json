@@ -1,17 +1,146 @@
 {
   "Filings": [
-    { "filingId": "FIL-001", "entityId": "SME-001", "entityName": "AgroTech Zambia", "filingType": "Annual Report", "regulatoryBody": "SEC", "status": 1, "dueDate": "2026-04-28T00:00:00Z", "submittedDate": "2026-04-27T00:00:00Z" },
-    { "filingId": "FIL-002", "entityId": "SME-002", "entityName": "Copperbelt Miners", "filingType": "Quarterly Disclosure", "regulatoryBody": "LuSE", "status": 0, "dueDate": "2026-05-13T00:00:00Z" },
-    { "filingId": "FIL-003", "entityId": "SOE-001", "entityName": "ZESCO", "filingType": "Tariff Review", "regulatoryBody": "ERB", "status": 4, "dueDate": "2026-05-01T00:00:00Z" },
-    { "filingId": "FIL-004", "entityId": "SME-005", "entityName": "Choma Grain Mills", "filingType": "Tax Compliance", "regulatoryBody": "ZRA", "status": 1, "dueDate": "2026-04-30T00:00:00Z", "submittedDate": "2026-04-29T00:00:00Z" },
-    { "filingId": "FIL-005", "entityId": "SOE-002", "entityName": "Zamtel", "filingType": "Financial Audit", "regulatoryBody": "Ministry of Finance", "status": 0, "dueDate": "2026-06-30T00:00:00Z" }
+    {
+      "filingId": "FIL-AUD-2026",
+      "entityId": "sme-001",
+      "entityName": "Lusaka Tech Solutions",
+      "filingType": "Annual Audited Financials",
+      "regulatoryBody": "SEC Zambia",
+      "status": 1,
+      "dueDate": "2026-06-30T00:00:00Z",
+      "submittedDate": "2026-06-10T10:00:00Z",
+      "description": "Consolidated financial statements for FY2025.",
+      "documents": [
+        { "name": "Audited_Financials_2025.pdf", "type": "Audited Financials", "url": "filings/sme-001/audit2025.pdf", "hash": "0xABC123..." },
+        { "name": "Management_Letter.pdf", "type": "Audit Report", "url": "filings/sme-001/mgmt_letter.pdf", "hash": "0xDEF456..." }
+      ],
+      "signatures": [
+        { "signerName": "Main Auditor", "role": "Auditor", "organization": "Zambia Audit Firm", "timestamp": "2026-06-09T14:00:00Z", "signature": "SIG_AUD_001", "did": "did:ethr:0x111..." },
+        { "signerName": "SME CEO", "role": "CEO", "organization": "Lusaka Tech Solutions", "timestamp": "2026-06-10T09:30:00Z", "signature": "SIG_CEO_001", "did": "did:ethr:0x222..." }
+      ]
+    },
+    {
+      "filingId": "FIL-LIC-2026",
+      "entityId": "farmer-001",
+      "entityName": "Choma Agri Coop",
+      "filingType": "Export License Renewal",
+      "regulatoryBody": "Ministry of Trade",
+      "status": 1,
+      "dueDate": "2026-07-15T00:00:00Z",
+      "submittedDate": "2026-06-12T11:00:00Z",
+      "description": "Renewal of agricultural export license for 2026/27 season.",
+      "documents": [
+        { "name": "Export_License_2026.pdf", "type": "License", "url": "filings/farmer-001/license2026.pdf", "hash": "0xGHI789..." }
+      ],
+      "signatures": [
+        { "signerName": "Coop Secretary", "role": "Director", "organization": "Choma Agri Coop", "timestamp": "2026-06-11T16:00:00Z", "signature": "SIG_DIR_001", "did": "did:ethr:0x333..." },
+        { "signerName": "Trade Inspector", "role": "Regulator", "organization": "Ministry of Trade", "timestamp": "2026-06-12T10:00:00Z", "signature": "SIG_REG_001", "did": "did:ethr:0x444..." }
+      ]
+    },
+    {
+      "filingId": "FIL-BANK-2026",
+      "entityId": "soe-001",
+      "entityName": "ZESCO Ltd",
+      "filingType": "Quarterly Bank Statement",
+      "regulatoryBody": "Bank of Zambia",
+      "status": 0,
+      "dueDate": "2026-06-15T00:00:00Z",
+      "description": "Quarterly cash position and bank reconciliation report.",
+      "documents": [],
+      "signatures": []
+    }
   ],
   "Cases": [
-    { "caseId": "CASE-001", "title": "Potential Market Manipulation", "description": "Unusual trading volume detected in SME-001 bonds.", "severity": 2, "status": 1, "assignedTo": "John Doe", "createdAt": "2026-05-01T10:00:00Z" },
-    { "caseId": "CASE-002", "title": "Late ESG Filing", "description": "SOE-002 has not submitted their annual ESG disclosure.", "severity": 1, "status": 0, "assignedTo": "Jane Smith", "createdAt": "2026-05-02T10:00:00Z" }
+    {
+      "caseId": "CASE-001",
+      "title": "Insider Trading Investigation",
+      "description": "Unusual volume detected in ZSMEG ETF prior to quarterly report.",
+      "severity": 3,
+      "status": 1,
+      "assignedTo": "Sarah Lungu",
+      "createdAt": "2026-06-01T08:00:00Z",
+      "entityId": "investor-001",
+      "entityName": "Global Growth Fund",
+      "evidenceLinks": [ "Surveillance Log #882", "Trade History ZSMEG" ],
+      "comments": [
+        { "user": "Sarah Lungu", "text": "Initial review shows trades executed from undisclosed accounts.", "timestamp": "2026-06-02T10:00:00Z" }
+      ]
+    },
+    {
+      "caseId": "CASE-002",
+      "title": "KYC Verification Gap",
+      "description": "Missing registration certificates for SME-045.",
+      "severity": 1,
+      "status": 0,
+      "assignedTo": "John Zulu",
+      "createdAt": "2026-06-05T09:00:00Z",
+      "entityId": "sme-045",
+      "entityName": "Northern Logistics",
+      "evidenceLinks": [ "Onboarding Doc Checklist" ],
+      "comments": []
+    }
   ],
   "ESGDisclosures": [
-    { "entityId": "SME-001", "entityName": "AgroTech Zambia", "environmentalScore": 85.0, "socialScore": 78.0, "governanceScore": 92.0, "rating": "AA", "lastUpdated": "2026-04-03T00:00:00Z" },
-    { "entityId": "SME-005", "entityName": "Choma Grain Mills", "environmentalScore": 65.0, "socialScore": 82.0, "governanceScore": 70.0, "rating": "B+", "lastUpdated": "2026-03-03T00:00:00Z" }
+    {
+      "entityId": "sme-001",
+      "entityName": "Lusaka Tech Solutions",
+      "environmentalScore": 75.0,
+      "socialScore": 88.0,
+      "governanceScore": 92.0,
+      "rating": "AA",
+      "lastUpdated": "2026-05-20T00:00:00Z"
+    },
+    {
+      "entityId": "soe-001",
+      "entityName": "ZESCO Ltd",
+      "environmentalScore": 45.0,
+      "socialScore": 62.0,
+      "governanceScore": 55.0,
+      "rating": "B",
+      "lastUpdated": "2026-06-01T00:00:00Z"
+    },
+    {
+      "entityId": "farmer-001",
+      "entityName": "Choma Agri Coop",
+      "environmentalScore": 90.0,
+      "socialScore": 95.0,
+      "governanceScore": 85.0,
+      "rating": "AAA",
+      "lastUpdated": "2026-05-15T00:00:00Z"
+    }
+  ],
+  "Portals": [
+    { 
+        "name": "Ministry of Finance Portal", 
+        "description": "National financial reporting, budget oversight, and treasury management gateway.",
+        "entity": "Ministry of Finance",
+        "url": "https://Kapambwe.github.io/MinistryFinanceWebApp/", 
+        "icon": "account_balance",
+        "isExternal": true 
+    },
+    { 
+        "name": "Consent Management Hub", 
+        "description": "Orchestrate data sharing requests and manage multi-stakeholder signatures for regulatory filings.",
+        "entity": "Capital Markets OS",
+        "url": "/capital-markets/consent-management", 
+        "icon": "gavel",
+        "isExternal": false 
+    },
+    { 
+        "name": "ZRA Tax Compliance Sync", 
+        "description": "Automated verification of corporate tax status and VAT filings.",
+        "entity": "Zambia Revenue Authority",
+        "url": "https://www.zra.org.zm/", 
+        "icon": "receipt_long",
+        "isExternal": true 
+    },
+    { 
+        "name": "PACRA Entity Verification", 
+        "description": "Direct link for verifying company registration and shareholding structures.",
+        "entity": "PACRA",
+        "url": "https://www.pacra.org.zm/", 
+        "icon": "business",
+        "isExternal": true 
+    }
   ]
 }
