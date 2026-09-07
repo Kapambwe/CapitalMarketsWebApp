@@ -1,0 +1,10 @@
+{
+  "regulatorId": "REG-ZW-001",
+  "name": "Securities and Exchange Commission of Zimbabwe",
+  "country": "Zimbabwe",
+  "establishedDate": "2008-01-15T00:00:00Z",
+  "website": "https://www.seczim.co.zw",
+  "contactEmail": "info@seczim.co.zw",
+  "mandate": "Regulate and supervise the securities and capital markets in Zimbabwe",
+  "regulatedEntities": 200
+}

@@ -1,0 +1,11 @@
+{
+  "investorId": "II-GH-004",
+  "name": "SIC Insurance Group",
+  "type": "Insurance Fund",
+  "country": "Ghana",
+  "assetsUnderManagement": 3100000000.0,
+  "currency": "GHS",
+  "establishedDate": "1962-06-01T00:00:00Z",
+  "members": 500000,
+  "investmentStrategy": "Conservative investment of policyholder funds in government bonds and blue-chip equities"
+}

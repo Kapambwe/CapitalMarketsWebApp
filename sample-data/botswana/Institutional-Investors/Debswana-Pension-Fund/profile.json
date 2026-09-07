@@ -1,0 +1,11 @@
+{
+  "investorId": "II-BW-002",
+  "name": "Debswana Pension Fund",
+  "type": "Pension Fund",
+  "country": "Botswana",
+  "assetsUnderManagement": 12000000000.0,
+  "currency": "BWP",
+  "establishedDate": "1992-01-15T00:00:00Z",
+  "members": 8500,
+  "investmentStrategy": "Balanced portfolio with significant allocation to diamonds and mining sector equities"
+}

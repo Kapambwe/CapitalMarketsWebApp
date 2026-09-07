@@ -1,0 +1,9 @@
+{
+  "id": "port-kondwani",
+  "owner": "Kondwani Phiri",
+  "holdings": [
+    { "symbol": "COPPER-T", "quantity": 10, "costBasis": 1480.00, "marketPrice": 1500.00 },
+    { "symbol": "TEX-PBU", "quantity": 100, "costBasis": 52.00, "marketPrice": 55.00 },
+    { "symbol": "FURN-RSN", "quantity": 50, "costBasis": 101.00, "marketPrice": 102.00 }
+  ]
+}

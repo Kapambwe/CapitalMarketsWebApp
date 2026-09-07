@@ -1,0 +1,11 @@
+{
+  "investorId": "II-GM-004",
+  "name": "Trust Bank Gambia Asset Management",
+  "type": "Asset Manager",
+  "country": "Gambia",
+  "assetsUnderManagement": 980000000.0,
+  "currency": "GMD",
+  "establishedDate": "2010-02-01T00:00:00Z",
+  "members": 3500,
+  "investmentStrategy": "Balanced approach with allocation to treasury bills, corporate deposits and equities"
+}

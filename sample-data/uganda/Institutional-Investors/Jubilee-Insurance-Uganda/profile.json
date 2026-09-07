@@ -1,0 +1,11 @@
+{
+  "investorId": "II-UG-003",
+  "name": "Jubilee Insurance Uganda",
+  "type": "Insurance Fund",
+  "country": "Uganda",
+  "assetsUnderManagement": 2100000000000.0,
+  "currency": "UGX",
+  "establishedDate": "1993-06-15T00:00:00Z",
+  "members": 350000,
+  "investmentStrategy": "Balanced policyholder fund management with government securities and property investments"
+}

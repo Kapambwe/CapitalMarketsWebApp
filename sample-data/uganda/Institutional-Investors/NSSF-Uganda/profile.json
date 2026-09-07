@@ -1,0 +1,11 @@
+{
+  "investorId": "II-UG-001",
+  "name": "National Social Security Fund Uganda",
+  "type": "Pension Fund",
+  "country": "Uganda",
+  "assetsUnderManagement": 18500000000000.0,
+  "currency": "UGX",
+  "establishedDate": "1985-01-01T00:00:00Z",
+  "members": 2200000,
+  "investmentStrategy": "Long-term growth through diversified investments in government bonds, USE equities and real estate"
+}

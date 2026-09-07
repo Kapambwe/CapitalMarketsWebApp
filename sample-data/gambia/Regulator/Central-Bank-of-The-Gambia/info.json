@@ -1,0 +1,10 @@
+{
+  "regulatorId": "REG-GM-001",
+  "name": "Central Bank of The Gambia - Securities Division",
+  "country": "Gambia",
+  "establishedDate": "1971-02-18T00:00:00Z",
+  "website": "https://www.cbg.gm",
+  "contactEmail": "info@cbg.gm",
+  "mandate": "Regulate securities markets and protect investors in The Gambia",
+  "regulatedEntities": 45
+}

@@ -1,0 +1,11 @@
+{
+  "investorId": "II-MW-003",
+  "name": "Old Mutual Malawi",
+  "type": "Insurance Fund",
+  "country": "Malawi",
+  "assetsUnderManagement": 410000000000.0,
+  "currency": "MWK",
+  "establishedDate": "1954-01-10T00:00:00Z",
+  "members": 300000,
+  "investmentStrategy": "Conservative policyholder fund management with emphasis on government treasury bills and property"
+}

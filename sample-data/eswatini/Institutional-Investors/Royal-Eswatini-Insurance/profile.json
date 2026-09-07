@@ -1,0 +1,11 @@
+{
+  "investorId": "II-SZ-003",
+  "name": "Royal Eswatini Insurance Corporation",
+  "type": "Insurance Fund",
+  "country": "Eswatini",
+  "assetsUnderManagement": 3200000000.0,
+  "currency": "SZL",
+  "establishedDate": "1982-03-15T00:00:00Z",
+  "members": 180000,
+  "investmentStrategy": "Conservative policyholder fund management with focus on government securities"
+}

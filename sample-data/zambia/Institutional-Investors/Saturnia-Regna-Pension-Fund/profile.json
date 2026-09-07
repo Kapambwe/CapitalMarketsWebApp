@@ -1,0 +1,11 @@
+{
+  "investorId": "II-ZM-004",
+  "name": "Saturnia Regna Pension Fund",
+  "type": "Pension Fund",
+  "country": "Zambia",
+  "assetsUnderManagement": 4100000000.0,
+  "currency": "ZMW",
+  "establishedDate": "2005-01-10T00:00:00Z",
+  "members": 45000,
+  "investmentStrategy": "Long-term growth through balanced allocation across government bonds and listed equities"
+}

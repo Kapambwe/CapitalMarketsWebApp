@@ -1,0 +1,28 @@
+{
+  "investorId": "RET-ZA-002",
+  "fullName": "Nomsa Dlamini",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "city": "Durban",
+  "registrationDate": "2022-01-20T00:00:00Z",
+  "investorType": "Individual",
+  "age": 35,
+  "occupation": "Healthcare Professional",
+  "riskProfile": "Conservative",
+  "investmentHorizon": "Long-term (10+ years)",
+  "portfolioValue": 950000.0,
+  "currency": "ZAR",
+  "monthlyContribution": 28000.0,
+  "investmentGoals": [
+    "Home Purchase",
+    "Children's Education",
+    "Emergency Fund"
+  ],
+  "preferredInvestments": [
+    "Money Market",
+    "Fixed Deposits",
+    "Balanced Funds"
+  ],
+  "email": "nomsa.dlamini@hospital.co.za",
+  "phoneNumber": "+27-83-456-7890"
+}

@@ -1,0 +1,16 @@
+{
+  "regulatorId": "REG-NG-001",
+  "name": "Securities and Exchange Commission",
+  "country": "Nigeria",
+  "countryCode": "NG",
+  "establishedDate": "1979-01-01T00:00:00Z",
+  "website": "https://www.sec.gov.ng",
+  "contactEmail": "info@sec.gov.ng",
+  "phoneNumber": "+234-1-2800800",
+  "address": "Ahmadu Bello Way, Central Business District, Abuja",
+  "mandate": "To regulate and develop the Nigerian capital market",
+  "regulatedEntities": 342,
+  "licensedBrokers": 87,
+  "listedCompanies": 154,
+  "currency": "NGN"
+}

@@ -1,0 +1,11 @@
+{
+  "investorId": "II-NA-004",
+  "name": "Allan Gray Namibia",
+  "type": "Asset Manager",
+  "country": "Namibia",
+  "assetsUnderManagement": 26000000000.0,
+  "currency": "NAD",
+  "establishedDate": "2005-02-01T00:00:00Z",
+  "members": 15000,
+  "investmentStrategy": "Value-oriented contrarian investment approach with long-term horizon"
+}

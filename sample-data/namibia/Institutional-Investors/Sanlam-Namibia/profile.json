@@ -1,0 +1,11 @@
+{
+  "investorId": "II-NA-003",
+  "name": "Sanlam Namibia",
+  "type": "Insurance Fund",
+  "country": "Namibia",
+  "assetsUnderManagement": 42000000000.0,
+  "currency": "NAD",
+  "establishedDate": "1995-06-01T00:00:00Z",
+  "members": 200000,
+  "investmentStrategy": "Balanced policyholder fund allocation across fixed income, equities and property"
+}

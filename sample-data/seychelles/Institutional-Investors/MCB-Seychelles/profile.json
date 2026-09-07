@@ -1,0 +1,11 @@
+{
+  "investorId": "II-SC-003",
+  "name": "MCB Seychelles",
+  "type": "Asset Manager",
+  "country": "Seychelles",
+  "assetsUnderManagement": 1500000000.0,
+  "currency": "SCR",
+  "establishedDate": "2010-03-01T00:00:00Z",
+  "members": 8000,
+  "investmentStrategy": "Wealth management and advisory services with regional Indian Ocean investment focus"
+}

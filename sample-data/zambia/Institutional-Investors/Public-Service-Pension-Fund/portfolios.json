@@ -1,0 +1,16 @@
+{
+  "id": "port-pspf",
+  "owner": "Public Service Pension Fund",
+  "holdings": [
+    { "symbol": "ZMBND", "quantity": 100000, "costBasis": 101.00, "marketPrice": 102.15 },
+    { "symbol": "LUS-M1", "quantity": 40000, "costBasis": 99.00, "marketPrice": 98.50 },
+    { "symbol": "ZES-B1", "quantity": 30000, "costBasis": 104.00, "marketPrice": 105.00 },
+    { "symbol": "SMEB1", "quantity": 25000, "costBasis": 99.50, "marketPrice": 99.70 },
+    { "symbol": "ZSMEG", "quantity": 10000, "costBasis": 122.00, "marketPrice": 125.60 },
+    { "symbol": "TIMB-B", "quantity": 5000, "costBasis": 111.00, "marketPrice": 112.00 },
+    { "symbol": "FEED-HLN", "quantity": 2000, "costBasis": 495.00, "marketPrice": 500.00 },
+    { "symbol": "MAIZE-HLN", "quantity": 50000, "costBasis": 10.20, "marketPrice": 10.50 },
+    { "symbol": "AGRX", "quantity": 8000, "costBasis": 76.00, "marketPrice": 78.42 },
+    { "symbol": "METAL-R", "quantity": 1000, "costBasis": 205.00, "marketPrice": 210.00 }
+  ]
+}

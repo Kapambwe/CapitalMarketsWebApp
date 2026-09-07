@@ -1,0 +1,16 @@
+{
+  "regulatorId": "REG-ZA-001",
+  "name": "Financial Sector Conduct Authority",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "establishedDate": "2018-04-01T00:00:00Z",
+  "website": "https://www.fsca.co.za",
+  "contactEmail": "info@fsca.co.za",
+  "phoneNumber": "+27-12-428-8000",
+  "address": "Riverwalk Office Park, Block B, 41 Matroosberg Road, Ashlea Gardens, Pretoria",
+  "mandate": "To protect financial customers by promoting their fair treatment by financial institutions",
+  "regulatedEntities": 487,
+  "licensedBrokers": 142,
+  "listedCompanies": 298,
+  "currency": "ZAR"
+}

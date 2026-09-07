@@ -1,0 +1,28 @@
+{
+  "investorId": "RET-KE-002",
+  "fullName": "James Omondi",
+  "country": "Kenya",
+  "countryCode": "KE",
+  "city": "Mombasa",
+  "registrationDate": "2021-08-22T00:00:00Z",
+  "investorType": "Individual",
+  "age": 42,
+  "occupation": "Business Owner",
+  "riskProfile": "Aggressive",
+  "investmentHorizon": "Medium-term (5-10 years)",
+  "portfolioValue": 5800000.0,
+  "currency": "KES",
+  "monthlyContribution": 120000.0,
+  "investmentGoals": [
+    "Business Expansion",
+    "Real Estate Investment",
+    "Wealth Growth"
+  ],
+  "preferredInvestments": [
+    "Equity",
+    "ETFs",
+    "Corporate Bonds"
+  ],
+  "email": "james.omondi@business.co.ke",
+  "phoneNumber": "+254-722-456789"
+}

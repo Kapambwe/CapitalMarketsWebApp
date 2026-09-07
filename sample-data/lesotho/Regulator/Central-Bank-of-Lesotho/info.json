@@ -1,0 +1,10 @@
+{
+  "regulatorId": "REG-LS-001",
+  "name": "Central Bank of Lesotho - Financial Institutions Supervision",
+  "country": "Lesotho",
+  "establishedDate": "1978-01-02T00:00:00Z",
+  "website": "https://www.centralbank.org.ls",
+  "contactEmail": "info@centralbank.org.ls",
+  "mandate": "Supervise financial institutions and promote stability in Lesotho's financial system",
+  "regulatedEntities": 60
+}

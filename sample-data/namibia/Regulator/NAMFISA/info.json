@@ -1,0 +1,10 @@
+{
+  "regulatorId": "REG-NA-001",
+  "name": "Namibia Financial Institutions Supervisory Authority",
+  "country": "Namibia",
+  "establishedDate": "2001-05-14T00:00:00Z",
+  "website": "https://www.namfisa.com.na",
+  "contactEmail": "info@namfisa.com.na",
+  "mandate": "Regulate and supervise financial institutions and financial services in Namibia",
+  "regulatedEntities": 420
+}

@@ -1,0 +1,33 @@
+{
+  "InstrumentTypes": [
+    "ProofOfWork",
+    "WarehouseReceipt",
+    "SupplyChainFinance",
+    "Mineral_Token",
+    "Bond",
+    "MicroEquity",
+    "RevenueShareNote"
+  ],
+  "Vctypes": [
+    "Tax Clearance Certificate",
+    "Zambian National ID (eID)",
+    "Land Title Deed (Digital)",
+    "Business Registration (PACRA)",
+    "Proof of Work (Agricultural)",
+    "ESG Compliance Audit",
+    "Bank Account Verification"
+  ],
+  "Investors": [
+    { "Id": "bank-001", "Name": "Zanaco Bank", "Type": "CommercialBank" },
+    { "Id": "bank-002", "Name": "Stanbic Zambia", "Type": "CommercialBank" },
+    { "Id": "dfi-001", "Name": "Development Bank of Zambia", "Type": "DevelopmentFinance" },
+    { "Id": "dfi-002", "Name": "IDC Zambia", "Type": "DevelopmentFinance" },
+    { "Id": "inst-001", "Name": "NAPSA Investment", "Type": "InstitutionalInvestor" },
+    { "Id": "inst-002", "Name": "Madison Assets", "Type": "InstitutionalInvestor" },
+    { "Id": "cit-001", "Name": "Abraham M. (Citizen)", "Type": "CitizenInvestor" },
+    { "Id": "fund-001", "Name": "CEEC Empowerment Fund", "Type": "EmpowermentFund" },
+    { "Id": "fund-002", "Name": "Youth Skills Fund", "Type": "EmpowermentFund" },
+    { "Id": "vc-001", "Name": "Zambia Tech Ventures", "Type": "VentureCapital" },
+    { "Id": "gov-001", "Name": "Ministry of Finance", "Type": "GovernmentAgency" }
+  ]
+}

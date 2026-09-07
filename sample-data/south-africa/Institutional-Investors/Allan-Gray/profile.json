@@ -1,0 +1,34 @@
+{
+  "investorId": "II-ZA-002",
+  "name": "Allan Gray",
+  "type": "Investment Management Company",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "assetsUnderManagement": 580000000000.0,
+  "currency": "ZAR",
+  "establishedDate": "1973-01-01T00:00:00Z",
+  "clients": 185000,
+  "website": "https://www.allangray.co.za",
+  "investmentStrategy": "Contrarian value investing with long-term focus",
+  "portfolioAllocation": [
+    {
+      "assetClass": "Equity",
+      "percentage": 0.55
+    },
+    {
+      "assetClass": "Bonds",
+      "percentage": 0.25
+    },
+    {
+      "assetClass": "Property",
+      "percentage": 0.10
+    },
+    {
+      "assetClass": "Cash",
+      "percentage": 0.10
+    }
+  ],
+  "annualReturn": 0.115,
+  "contactEmail": "info@allangray.co.za",
+  "phoneNumber": "+27-21-415-2300"
+}

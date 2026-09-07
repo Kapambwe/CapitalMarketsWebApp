@@ -1,0 +1,11 @@
+{
+  "investorId": "II-TZ-002",
+  "name": "UTT Asset Management and Investor Services",
+  "type": "Asset Manager",
+  "country": "Tanzania",
+  "assetsUnderManagement": 3200000000000.0,
+  "currency": "TZS",
+  "establishedDate": "2003-07-01T00:00:00Z",
+  "members": 120000,
+  "investmentStrategy": "Unit trust fund management with diversified equity and fixed income products"
+}

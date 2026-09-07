@@ -1,0 +1,16 @@
+{
+  "regulatorId": "REG-ZM-001",
+  "name": "Securities and Exchange Commission Zambia",
+  "country": "Zambia",
+  "countryCode": "ZM",
+  "establishedDate": "1993-01-01T00:00:00Z",
+  "website": "https://www.seczambia.org.zm",
+  "contactEmail": "info@seczambia.org.zm",
+  "phoneNumber": "+260-211-252-915",
+  "address": "Haile Selassie Avenue, Lusaka",
+  "mandate": "To regulate and develop the Zambian capital market",
+  "regulatedEntities": 78,
+  "licensedBrokers": 12,
+  "listedCompanies": 23,
+  "currency": "ZMW"
+}

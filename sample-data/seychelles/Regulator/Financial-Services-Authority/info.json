@@ -1,0 +1,10 @@
+{
+  "regulatorId": "REG-SC-001",
+  "name": "Financial Services Authority Seychelles",
+  "country": "Seychelles",
+  "establishedDate": "2013-06-01T00:00:00Z",
+  "website": "https://www.fsaseychelles.sc",
+  "contactEmail": "enquiries@fsaseychelles.sc",
+  "mandate": "License, regulate and supervise non-bank financial services in Seychelles",
+  "regulatedEntities": 320
+}

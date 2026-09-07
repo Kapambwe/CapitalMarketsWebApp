@@ -1,0 +1,7 @@
+{
+  "filings": [
+    { "filingId": "FIL-Z-1", "entityId": "ZANACO", "entityName": "Zanaco", "filingType": "Liquidity Report", "regulatoryBody": "Bank of Zambia", "status": 1, "dueDate": "2026-05-10T00:00:00Z", "submittedDate": "2026-05-02T00:00:00Z" },
+    { "filingId": "FIL-Z-2", "entityId": "ZANACO", "entityName": "Zanaco", "filingType": "SME Lending Disclosure", "regulatoryBody": "MCTI", "status": 1, "dueDate": "2026-04-30T00:00:00Z", "submittedDate": "2026-04-29T00:00:00Z" }
+  ],
+  "cases": []
+}

@@ -1,0 +1,11 @@
+{
+  "investorId": "II-BW-004",
+  "name": "Botswana Insurance Holdings",
+  "type": "Insurance Fund",
+  "country": "Botswana",
+  "assetsUnderManagement": 6200000000.0,
+  "currency": "BWP",
+  "establishedDate": "1975-03-20T00:00:00Z",
+  "members": 200000,
+  "investmentStrategy": "Conservative fixed income with selective property and equity investments"
+}

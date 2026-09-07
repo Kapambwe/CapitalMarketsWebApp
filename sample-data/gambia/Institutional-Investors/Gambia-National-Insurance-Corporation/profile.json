@@ -1,0 +1,11 @@
+{
+  "investorId": "II-GM-003",
+  "name": "Gambia National Insurance Corporation",
+  "type": "Insurance Fund",
+  "country": "Gambia",
+  "assetsUnderManagement": 1500000000.0,
+  "currency": "GMD",
+  "establishedDate": "1974-09-01T00:00:00Z",
+  "members": 100000,
+  "investmentStrategy": "Conservative investment approach focused on government treasury bills and property"
+}

@@ -1,0 +1,28 @@
+{
+  "investorId": "RET-ZA-001",
+  "fullName": "Thabo Mbeki",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "city": "Johannesburg",
+  "registrationDate": "2019-07-15T00:00:00Z",
+  "investorType": "Individual",
+  "age": 48,
+  "occupation": "Mining Executive",
+  "riskProfile": "Moderate",
+  "investmentHorizon": "Long-term (10+ years)",
+  "portfolioValue": 2800000.0,
+  "currency": "ZAR",
+  "monthlyContribution": 65000.0,
+  "investmentGoals": [
+    "Retirement Planning",
+    "Wealth Preservation",
+    "Legacy Building"
+  ],
+  "preferredInvestments": [
+    "Equity Funds",
+    "Property",
+    "Government Bonds"
+  ],
+  "email": "thabo.mbeki@mining.co.za",
+  "phoneNumber": "+27-82-345-6789"
+}

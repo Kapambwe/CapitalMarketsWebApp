@@ -1,0 +1,28 @@
+{
+  "investorId": "RET-KE-001",
+  "fullName": "Wanjiku Kamau",
+  "country": "Kenya",
+  "countryCode": "KE",
+  "city": "Nairobi",
+  "registrationDate": "2022-03-15T00:00:00Z",
+  "investorType": "Individual",
+  "age": 34,
+  "occupation": "Software Engineer",
+  "riskProfile": "Moderate",
+  "investmentHorizon": "Long-term (10+ years)",
+  "portfolioValue": 2500000.0,
+  "currency": "KES",
+  "monthlyContribution": 50000.0,
+  "investmentGoals": [
+    "Retirement Planning",
+    "Wealth Accumulation",
+    "Children's Education"
+  ],
+  "preferredInvestments": [
+    "Equity",
+    "Mutual Funds",
+    "Government Bonds"
+  ],
+  "email": "wanjiku.kamau@email.com",
+  "phoneNumber": "+254-712-345678"
+}

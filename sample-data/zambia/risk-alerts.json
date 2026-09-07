@@ -1,0 +1,12 @@
+[
+  { "id": "a1", "entity": "FARM1", "type": "MarketMove", "severity": "High", "description": "Price moved 12% intraday", "evidence": ["TickStream.csv"], "status": "Open", "createdAt": "2026-05-02T23:30:00Z" },
+  { "id": "a2", "entity": "SME-LOAN", "type": "CovenantBreach", "severity": "Medium", "description": "Debt service ratio below threshold", "evidence": ["LoanStatement.pdf"], "status": "Open", "createdAt": "2026-05-02T22:00:00Z" },
+  { "id": "a3", "entity": "MUNIC-BOND", "type": "Compliance", "severity": "Low", "description": "Reporting delay for issuer", "evidence": ["Report.docx"], "status": "Open", "createdAt": "2026-05-02T00:00:00Z" },
+  { "id": "a4", "entity": "MINX-EQ", "type": "MarketMove", "severity": "High", "description": "Abnormal volatility in Mining Index", "evidence": ["VolatilityLog.csv"], "status": "Open", "createdAt": "2026-05-03T08:15:00Z" },
+  { "id": "a5", "entity": "ZESCO-B1", "type": "CovenantBreach", "severity": "High", "description": "Fiscal risk threshold exceeded (Tariff Gap)", "evidence": ["ERB_Report.pdf"], "status": "Open", "createdAt": "2026-05-03T09:40:00Z" },
+  { "id": "a6", "entity": "SME-009", "type": "FraudPattern", "severity": "High", "description": "Circular trading detected in recycling tokens", "evidence": ["ChainAnalysis.json"], "status": "Open", "createdAt": "2026-05-02T16:20:00Z" },
+  { "id": "a7", "entity": "LUS-MUNI", "type": "Compliance", "severity": "Medium", "description": "Audited financials overdue by 30 days", "evidence": ["RegistryLog.txt"], "status": "Open", "createdAt": "2026-04-30T10:00:00Z" },
+  { "id": "a8", "entity": "AGRX-ETF", "type": "MarketMove", "severity": "Medium", "description": "Unusual volume spike in opening auction", "evidence": ["AuctionDepth.csv"], "status": "Open", "createdAt": "2026-05-03T07:05:00Z" },
+  { "id": "a9", "entity": "PPP-001", "type": "CovenantBreach", "severity": "Low", "description": "Milestone verification certificate pending", "evidence": ["ProjectTracker.xlsx"], "status": "Open", "createdAt": "2026-05-01T11:55:00Z" },
+  { "id": "a10", "entity": "SME-012", "type": "FraudPattern", "severity": "High", "description": "Multiple identity claims for same DID", "evidence": ["IdentityLedger.db"], "status": "Open", "createdAt": "2026-05-02T14:30:00Z" }
+]

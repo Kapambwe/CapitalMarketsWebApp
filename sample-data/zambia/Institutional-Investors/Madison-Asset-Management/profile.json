@@ -1,0 +1,11 @@
+{
+  "investorId": "II-ZM-002",
+  "name": "Madison Asset Management",
+  "type": "Asset Manager",
+  "country": "Zambia",
+  "assetsUnderManagement": 5200000000.0,
+  "currency": "ZMW",
+  "establishedDate": "2000-03-15T00:00:00Z",
+  "members": 12000,
+  "investmentStrategy": "Diversified multi-asset approach focusing on Zambian equities and fixed income"
+}

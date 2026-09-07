@@ -1,0 +1,34 @@
+{
+  "investorId": "II-ZM-001",
+  "name": "National Pension Scheme Authority (NAPSA)",
+  "type": "Pension Fund",
+  "country": "Zambia",
+  "countryCode": "ZM",
+  "assetsUnderManagement": 45000000000.0,
+  "currency": "ZMW",
+  "establishedDate": "2000-01-01T00:00:00Z",
+  "members": 850000,
+  "website": "https://www.napsa.co.zm",
+  "investmentStrategy": "Long-term growth with capital preservation focus",
+  "portfolioAllocation": [
+    {
+      "assetClass": "Government Securities",
+      "percentage": 0.50
+    },
+    {
+      "assetClass": "Equity",
+      "percentage": 0.25
+    },
+    {
+      "assetClass": "Real Estate",
+      "percentage": 0.15
+    },
+    {
+      "assetClass": "Money Market",
+      "percentage": 0.10
+    }
+  ],
+  "annualReturn": 0.092,
+  "contactEmail": "info@napsa.co.zm",
+  "phoneNumber": "+260-211-229-194"
+}

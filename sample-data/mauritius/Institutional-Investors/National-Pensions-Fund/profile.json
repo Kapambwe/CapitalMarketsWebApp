@@ -1,0 +1,11 @@
+{
+  "investorId": "II-MU-001",
+  "name": "National Pensions Fund Mauritius",
+  "type": "Pension Fund",
+  "country": "Mauritius",
+  "assetsUnderManagement": 82000000000.0,
+  "currency": "MUR",
+  "establishedDate": "1978-08-01T00:00:00Z",
+  "members": 450000,
+  "investmentStrategy": "Diversified global and domestic portfolio with focus on long-term capital appreciation"
+}

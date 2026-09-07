@@ -1,0 +1,34 @@
+{
+  "investorId": "II-ZA-004",
+  "name": "Investec Asset Management",
+  "type": "Asset Management Company",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "assetsUnderManagement": 450000000000.0,
+  "currency": "ZAR",
+  "establishedDate": "1991-01-01T00:00:00Z",
+  "clients": 95000,
+  "website": "https://www.investec.com",
+  "investmentStrategy": "Diversified global and local investment strategies",
+  "portfolioAllocation": [
+    {
+      "assetClass": "Equity",
+      "percentage": 0.40
+    },
+    {
+      "assetClass": "Fixed Income",
+      "percentage": 0.35
+    },
+    {
+      "assetClass": "Alternative Investments",
+      "percentage": 0.15
+    },
+    {
+      "assetClass": "Cash",
+      "percentage": 0.10
+    }
+  ],
+  "annualReturn": 0.102,
+  "contactEmail": "contact@investec.co.za",
+  "phoneNumber": "+27-11-286-7000"
+}

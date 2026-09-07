@@ -1,0 +1,11 @@
+{
+  "investorId": "II-UG-004",
+  "name": "ICEA Lion Asset Management Uganda",
+  "type": "Asset Manager",
+  "country": "Uganda",
+  "assetsUnderManagement": 1500000000000.0,
+  "currency": "UGX",
+  "establishedDate": "2005-09-01T00:00:00Z",
+  "members": 20000,
+  "investmentStrategy": "Active fund management with East African regional diversification strategy"
+}

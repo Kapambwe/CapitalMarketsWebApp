@@ -1,0 +1,28 @@
+{
+  "investorId": "RET-ZA-003",
+  "fullName": "Pieter Van Der Merwe",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "city": "Cape Town",
+  "registrationDate": "2020-11-08T00:00:00Z",
+  "investorType": "Individual",
+  "age": 52,
+  "occupation": "Architect",
+  "riskProfile": "Moderate-Conservative",
+  "investmentHorizon": "Medium-term (5-10 years)",
+  "portfolioValue": 3500000.0,
+  "currency": "ZAR",
+  "monthlyContribution": 75000.0,
+  "investmentGoals": [
+    "Retirement Planning",
+    "Travel Fund",
+    "Property Investment"
+  ],
+  "preferredInvestments": [
+    "Balanced Funds",
+    "Property Funds",
+    "Fixed Income"
+  ],
+  "email": "pieter.vdm@architecture.co.za",
+  "phoneNumber": "+27-84-567-8901"
+}

@@ -1,0 +1,38 @@
+{
+  "investorId": "II-KE-001",
+  "name": "National Social Security Fund (NSSF)",
+  "type": "Pension Fund",
+  "country": "Kenya",
+  "countryCode": "KE",
+  "assetsUnderManagement": 320000000000.0,
+  "currency": "KES",
+  "establishedDate": "1965-01-01T00:00:00Z",
+  "members": 2500000,
+  "website": "https://www.nssfkenya.co.ke",
+  "investmentStrategy": "Diversified portfolio focusing on long-term growth and capital preservation",
+  "portfolioAllocation": [
+    {
+      "assetClass": "Government Securities",
+      "percentage": 0.45
+    },
+    {
+      "assetClass": "Equity",
+      "percentage": 0.25
+    },
+    {
+      "assetClass": "Real Estate",
+      "percentage": 0.15
+    },
+    {
+      "assetClass": "Corporate Bonds",
+      "percentage": 0.10
+    },
+    {
+      "assetClass": "Cash & Money Market",
+      "percentage": 0.05
+    }
+  ],
+  "annualReturn": 0.089,
+  "contactEmail": "info@nssfkenya.co.ke",
+  "phoneNumber": "+254-20-2729000"
+}

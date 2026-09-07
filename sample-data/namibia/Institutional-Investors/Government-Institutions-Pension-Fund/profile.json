@@ -1,0 +1,11 @@
+{
+  "investorId": "II-NA-001",
+  "name": "Government Institutions Pension Fund",
+  "type": "Pension Fund",
+  "country": "Namibia",
+  "assetsUnderManagement": 125000000000.0,
+  "currency": "NAD",
+  "establishedDate": "1989-03-21T00:00:00Z",
+  "members": 100000,
+  "investmentStrategy": "Diversified multi-asset strategy with significant allocation to South African and global markets"
+}

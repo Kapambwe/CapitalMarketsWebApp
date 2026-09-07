@@ -1,0 +1,10 @@
+{
+  "regulatorId": "REG-LR-001",
+  "name": "Central Bank of Liberia - Financial Markets Division",
+  "country": "Liberia",
+  "establishedDate": "1999-10-18T00:00:00Z",
+  "website": "https://www.cbl.org.lr",
+  "contactEmail": "info@cbl.org.lr",
+  "mandate": "Regulate financial markets and promote financial stability in Liberia",
+  "regulatedEntities": 35
+}

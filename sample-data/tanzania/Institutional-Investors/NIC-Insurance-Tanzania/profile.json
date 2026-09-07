@@ -1,0 +1,11 @@
+{
+  "investorId": "II-TZ-003",
+  "name": "NIC Insurance Tanzania",
+  "type": "Insurance Fund",
+  "country": "Tanzania",
+  "assetsUnderManagement": 1600000000000.0,
+  "currency": "TZS",
+  "establishedDate": "1963-01-01T00:00:00Z",
+  "members": 500000,
+  "investmentStrategy": "Conservative investment of insurance reserves in government securities and bank deposits"
+}

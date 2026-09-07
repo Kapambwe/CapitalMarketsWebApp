@@ -1,0 +1,11 @@
+{
+  "investorId": "II-MW-001",
+  "name": "National Bank of Malawi Pension Fund",
+  "type": "Pension Fund",
+  "country": "Malawi",
+  "assetsUnderManagement": 820000000000.0,
+  "currency": "MWK",
+  "establishedDate": "1971-04-01T00:00:00Z",
+  "members": 180000,
+  "investmentStrategy": "Diversified long-term growth with allocation to government securities and Malawi Stock Exchange equities"
+}

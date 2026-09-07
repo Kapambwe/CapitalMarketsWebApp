@@ -1,0 +1,13 @@
+[
+  { "entityId": "SOE-001", "legalName": "ZESCO Limited", "sector": "Energy", "status": 1, "headCount": 5400, "annualRevenue": 1500000000.0 },
+  { "entityId": "SOE-002", "legalName": "Zamtel", "sector": "Telecommunications", "status": 1, "headCount": 1200, "annualRevenue": 450000000.0 },
+  { "entityId": "SOE-003", "legalName": "Zambia Railways", "sector": "Transport", "status": 3, "headCount": 2100, "annualRevenue": 120000000.0 },
+  { "entityId": "SOE-004", "legalName": "Indeni Petroleum", "sector": "Energy", "status": 2, "headCount": 800, "annualRevenue": 850000000.0 },
+  { "entityId": "SOE-005", "legalName": "Zambia Airports Corp", "sector": "Transport", "status": 1, "headCount": 1500, "annualRevenue": 350000000.0 },
+  { "entityId": "SOE-006", "legalName": "ZAFICOR", "sector": "Agriculture", "status": 1, "headCount": 900, "annualRevenue": 180000000.0 },
+  { "entityId": "SOE-007", "legalName": "Zambian Port Authority", "sector": "Logistics", "status": 2, "headCount": 600, "annualRevenue": 95000000.0 },
+  { "entityId": "SOE-008", "legalName": "Zambia Daily Mail", "sector": "Media", "status": 1, "headCount": 450, "annualRevenue": 45000000.0 },
+  { "entityId": "SOE-009", "legalName": "Mulungushi Conference", "sector": "Services", "status": 1, "headCount": 300, "annualRevenue": 25000000.0 },
+  { "entityId": "SOE-010", "legalName": "Zambia Postal Services", "sector": "Logistics", "status": 3, "headCount": 1800, "annualRevenue": 110000000.0 },
+  { "entityId": "SOE-011", "legalName": "Lusaka Water & Sanitation", "sector": "Utilities", "status": 1, "headCount": 2200, "annualRevenue": 280000000.0 }
+]

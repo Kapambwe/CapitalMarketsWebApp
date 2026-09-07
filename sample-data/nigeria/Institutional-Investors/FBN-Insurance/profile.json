@@ -1,0 +1,34 @@
+{
+  "investorId": "II-NG-003",
+  "name": "FBN Insurance Limited",
+  "type": "Insurance Company",
+  "country": "Nigeria",
+  "countryCode": "NG",
+  "assetsUnderManagement": 420000000000.0,
+  "currency": "NGN",
+  "establishedDate": "1969-01-01T00:00:00Z",
+  "clients": 85000,
+  "website": "https://www.fbninsurance.com",
+  "investmentStrategy": "Conservative investment approach focused on stable returns",
+  "portfolioAllocation": [
+    {
+      "assetClass": "Government Securities",
+      "percentage": 0.60
+    },
+    {
+      "assetClass": "Corporate Bonds",
+      "percentage": 0.20
+    },
+    {
+      "assetClass": "Equity",
+      "percentage": 0.12
+    },
+    {
+      "assetClass": "Real Estate",
+      "percentage": 0.08
+    }
+  ],
+  "annualReturn": 0.092,
+  "contactEmail": "info@fbninsurance.com",
+  "phoneNumber": "+234-1-2798300"
+}

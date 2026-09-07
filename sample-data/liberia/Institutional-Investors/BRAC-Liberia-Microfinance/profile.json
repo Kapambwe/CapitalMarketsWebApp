@@ -1,0 +1,11 @@
+{
+  "investorId": "II-LR-002",
+  "name": "BRAC Liberia Microfinance",
+  "type": "Asset Manager",
+  "country": "Liberia",
+  "assetsUnderManagement": 5200000000.0,
+  "currency": "LRD",
+  "establishedDate": "2008-06-01T00:00:00Z",
+  "members": 350000,
+  "investmentStrategy": "Microfinance-focused portfolio with emphasis on SME lending and community development"
+}

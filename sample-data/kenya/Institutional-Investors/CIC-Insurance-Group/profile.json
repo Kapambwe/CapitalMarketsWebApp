@@ -1,0 +1,34 @@
+{
+  "investorId": "II-KE-004",
+  "name": "CIC Insurance Group",
+  "type": "Insurance & Investment Company",
+  "country": "Kenya",
+  "countryCode": "KE",
+  "assetsUnderManagement": 65000000000.0,
+  "currency": "KES",
+  "establishedDate": "1968-01-01T00:00:00Z",
+  "clients": 95000,
+  "website": "https://www.cic.co.ke",
+  "investmentStrategy": "Balanced investment approach with focus on stable returns",
+  "portfolioAllocation": [
+    {
+      "assetClass": "Fixed Income",
+      "percentage": 0.50
+    },
+    {
+      "assetClass": "Equity",
+      "percentage": 0.25
+    },
+    {
+      "assetClass": "Real Estate",
+      "percentage": 0.15
+    },
+    {
+      "assetClass": "Money Market",
+      "percentage": 0.10
+    }
+  ],
+  "annualReturn": 0.087,
+  "contactEmail": "info@cic.co.ke",
+  "phoneNumber": "+254-20-2829000"
+}

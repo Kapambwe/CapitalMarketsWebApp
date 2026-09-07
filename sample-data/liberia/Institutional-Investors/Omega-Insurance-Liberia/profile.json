@@ -1,0 +1,11 @@
+{
+  "investorId": "II-LR-003",
+  "name": "Omega Insurance Liberia",
+  "type": "Insurance Fund",
+  "country": "Liberia",
+  "assetsUnderManagement": 3000000000.0,
+  "currency": "LRD",
+  "establishedDate": "2004-03-20T00:00:00Z",
+  "members": 80000,
+  "investmentStrategy": "Conservative fixed income investment of policyholder reserves"
+}

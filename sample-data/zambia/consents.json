@@ -1,0 +1,84 @@
+{
+  "Templates": [
+    { "id": "agri-1", "name": "Agriculture - Loan Underwriting", "industry": "Agriculture", "dataTypes": ["BankStatements", "ExpectedYield", "TransactionReceipts"], "frequency": 1, "description": "Data commonly requested for short-term working capital and underwriting for farmers." },
+    { "id": "sme-1", "name": "SME - Working Capital", "industry": "SME", "dataTypes": ["MonthlyFinancialStatements", "BankStatements", "Invoices"], "frequency": 1, "description": "Common dataset for SME working capital underwriting." },
+    { "id": "mine-1", "name": "Mining - Royalty Verification", "industry": "Mining", "dataTypes": ["ProductionLogs", "ExportPermits", "BankStatements"], "frequency": 1, "description": "Standard data required for mining royalty verification and tokenization." },
+    { "id": "audit-1", "name": "Regulator - Spot Check", "industry": "Regulator", "dataTypes": ["FullTransactionLedger", "BeneficialOwnerRegistry"], "frequency": 0, "description": "Ad-hoc access for regulatory spot audits and investigations." }
+  ],
+  "GrantedConsents": [
+    {
+      "id": "CONSENT-AUD-001",
+      "playerId": "sme-001",
+      "purpose": "Regulatory Filing: Annual Audited Financials",
+      "dataTypes": [ "AuditedFinancials", "AuditReport" ],
+      "frequency": 0,
+      "createdAt": "2026-06-08T10:00:00Z",
+      "approvedAt": "2026-06-10T09:30:00Z",
+      "status": 1,
+      "grantedBy": "SME CEO",
+      "proofHash": "0x88f2e...c1d",
+      "isCryptographicallyVerified": true,
+      "signatureChain": {
+        "isVerified": true,
+        "signatures": [
+          {
+            "role": "Citizen",
+            "actor": "SME CEO",
+            "actorId": "did:ethr:0x222...",
+            "timestamp": "2026-06-10T09:30:00Z",
+            "signature": "SIG_CEO_001"
+          },
+          {
+            "role": "Auditor",
+            "actor": "Main Auditor",
+            "actorId": "did:ethr:0x111...",
+            "timestamp": "2026-06-10T14:00:00Z",
+            "signature": "SIG_AUD_001",
+            "previousSignature": "SIG_CEO_001"
+          },
+          {
+            "role": "Regulator",
+            "actor": "SEC Zambia",
+            "actorId": "did:ethr:0xSEC",
+            "timestamp": "2026-06-11T09:00:00Z",
+            "signature": "SIG_REG_VERIFY",
+            "previousSignature": "SIG_AUD_001"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CONSENT-BANK-001",
+      "playerId": "farmer-001",
+      "purpose": "Loan Application Verification",
+      "dataTypes": [ "BankStatements", "TransactionReceipts" ],
+      "frequency": 3,
+      "createdAt": "2026-06-12T08:00:00Z",
+      "approvedAt": "2026-06-12T10:00:00Z",
+      "status": 1,
+      "grantedBy": "Choma Agri Coop",
+      "proofHash": "0x5a2d1...e9b",
+      "isCryptographicallyVerified": true,
+      "signatureChain": {
+        "isVerified": true,
+        "signatures": [
+          {
+            "role": "Citizen",
+            "actor": "Coop Manager",
+            "actorId": "did:ethr:0x333...",
+            "timestamp": "2026-06-12T10:00:00Z",
+            "signature": "SIG_COOP_01"
+          },
+          {
+            "role": "Institution",
+            "actor": "Zanaco Bank",
+            "actorId": "did:ethr:0xBANK",
+            "timestamp": "2026-06-12T11:30:00Z",
+            "signature": "SIG_BANK_STMT",
+            "previousSignature": "SIG_COOP_01"
+          }
+        ]
+      }
+    }
+  ]
+}

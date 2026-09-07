@@ -1,0 +1,11 @@
+{
+  "investorId": "II-RW-004",
+  "name": "Prime Insurance Rwanda",
+  "type": "Insurance Fund",
+  "country": "Rwanda",
+  "assetsUnderManagement": 82000000000.0,
+  "currency": "RWF",
+  "establishedDate": "1995-04-01T00:00:00Z",
+  "members": 150000,
+  "investmentStrategy": "Balanced investment across fixed income securities and commercial property"
+}

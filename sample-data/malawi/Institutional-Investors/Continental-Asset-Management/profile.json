@@ -1,0 +1,11 @@
+{
+  "investorId": "II-MW-004",
+  "name": "Continental Asset Management",
+  "type": "Asset Manager",
+  "country": "Malawi",
+  "assetsUnderManagement": 210000000000.0,
+  "currency": "MWK",
+  "establishedDate": "2010-03-01T00:00:00Z",
+  "members": 8000,
+  "investmentStrategy": "Balanced portfolio management with focus on high-yield Malawian government securities"
+}

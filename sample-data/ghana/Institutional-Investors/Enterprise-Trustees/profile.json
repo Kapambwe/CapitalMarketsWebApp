@@ -1,0 +1,11 @@
+{
+  "investorId": "II-GH-002",
+  "name": "Enterprise Trustees",
+  "type": "Pension Fund",
+  "country": "Ghana",
+  "assetsUnderManagement": 8200000000.0,
+  "currency": "GHS",
+  "establishedDate": "2005-06-01T00:00:00Z",
+  "members": 350000,
+  "investmentStrategy": "Diversified pension fund management with focus on government securities and real estate"
+}

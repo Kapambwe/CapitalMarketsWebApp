@@ -1,0 +1,28 @@
+{
+  "investorId": "RET-KE-004",
+  "fullName": "David Kipchoge",
+  "country": "Kenya",
+  "countryCode": "KE",
+  "city": "Eldoret",
+  "registrationDate": "2020-11-05T00:00:00Z",
+  "investorType": "Individual",
+  "age": 38,
+  "occupation": "Medical Doctor",
+  "riskProfile": "Moderate",
+  "investmentHorizon": "Long-term (10+ years)",
+  "portfolioValue": 4200000.0,
+  "currency": "KES",
+  "monthlyContribution": 85000.0,
+  "investmentGoals": [
+    "Retirement Planning",
+    "Children's Education",
+    "Investment Property"
+  ],
+  "preferredInvestments": [
+    "Balanced Funds",
+    "Equity",
+    "Real Estate Investment Trusts"
+  ],
+  "email": "dr.kipchoge@hospital.co.ke",
+  "phoneNumber": "+254-744-678901"
+}

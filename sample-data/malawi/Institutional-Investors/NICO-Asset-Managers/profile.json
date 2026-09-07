@@ -1,0 +1,11 @@
+{
+  "investorId": "II-MW-002",
+  "name": "NICO Asset Managers",
+  "type": "Asset Manager",
+  "country": "Malawi",
+  "assetsUnderManagement": 520000000000.0,
+  "currency": "MWK",
+  "establishedDate": "1998-09-15T00:00:00Z",
+  "members": 25000,
+  "investmentStrategy": "Active management of equity and fixed income portfolios on the Malawi Stock Exchange"
+}

@@ -1,0 +1,11 @@
+{
+  "investorId": "II-BW-003",
+  "name": "African Alliance Botswana",
+  "type": "Asset Manager",
+  "country": "Botswana",
+  "assetsUnderManagement": 8500000000.0,
+  "currency": "BWP",
+  "establishedDate": "1998-06-01T00:00:00Z",
+  "members": 15000,
+  "investmentStrategy": "Active management of equity and fixed income portfolios across Southern African markets"
+}

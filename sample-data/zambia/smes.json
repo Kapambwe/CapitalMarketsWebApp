@@ -1,0 +1,14 @@
+[
+  { "entityId": "SME-001", "name": "AgroTech Zambia", "sizeCategory": 2, "industry": "Agriculture", "province": "Lusaka", "status": 1, "createdAt": "2024-05-02T00:00:00Z" },
+  { "entityId": "SME-002", "name": "Copperbelt Miners Coop", "sizeCategory": 3, "industry": "Mining", "province": "Copperbelt", "status": 1, "createdAt": "2023-05-02T00:00:00Z" },
+  { "entityId": "SME-003", "name": "SolarBright Solutions", "sizeCategory": 1, "industry": "Energy", "province": "Southern", "status": 1, "createdAt": "2025-05-02T00:00:00Z" },
+  { "entityId": "SME-004", "name": "Lusaka Logistics", "sizeCategory": 2, "industry": "Logistics", "province": "Lusaka", "status": 1, "createdAt": "2022-05-02T00:00:00Z" },
+  { "entityId": "SME-005", "name": "Choma Grain Mills", "sizeCategory": 1, "industry": "Manufacturing", "province": "Southern", "status": 1, "createdAt": "2024-05-02T00:00:00Z" },
+  { "entityId": "SME-006", "name": "Ndola Textiles", "sizeCategory": 2, "industry": "Manufacturing", "province": "Copperbelt", "status": 1, "createdAt": "2023-11-15T00:00:00Z" },
+  { "entityId": "SME-007", "name": "Kitwe Tech Hub", "sizeCategory": 1, "industry": "Technology", "province": "Copperbelt", "status": 1, "createdAt": "2025-01-10T00:00:00Z" },
+  { "entityId": "SME-008", "name": "Kafue Fish Farms", "sizeCategory": 2, "industry": "Agriculture", "province": "Lusaka", "status": 1, "createdAt": "2023-06-20T00:00:00Z" },
+  { "entityId": "SME-009", "name": "Mansa Battery Recyclers", "sizeCategory": 1, "industry": "Green Energy", "province": "Luapula", "status": 1, "createdAt": "2024-08-05T00:00:00Z" },
+  { "entityId": "SME-010", "name": "Chipata Cotton Ginning", "sizeCategory": 3, "industry": "Agriculture", "province": "Eastern", "status": 2, "createdAt": "2022-12-01T00:00:00Z" },
+  { "entityId": "SME-011", "name": "Solwezi Service Solutions", "sizeCategory": 2, "industry": "Services", "province": "North-Western", "status": 1, "createdAt": "2024-02-14T00:00:00Z" },
+  { "entityId": "SME-012", "name": "Livingstone Curio Export", "sizeCategory": 1, "industry": "Tourism", "province": "Southern", "status": 1, "createdAt": "2025-03-30T00:00:00Z" }
+]

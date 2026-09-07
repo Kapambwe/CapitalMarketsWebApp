@@ -1,0 +1,11 @@
+{
+  "investorId": "II-NA-002",
+  "name": "Old Mutual Namibia",
+  "type": "Asset Manager",
+  "country": "Namibia",
+  "assetsUnderManagement": 82000000000.0,
+  "currency": "NAD",
+  "establishedDate": "1920-01-01T00:00:00Z",
+  "members": 350000,
+  "investmentStrategy": "Multi-asset portfolio management across domestic and international markets"
+}

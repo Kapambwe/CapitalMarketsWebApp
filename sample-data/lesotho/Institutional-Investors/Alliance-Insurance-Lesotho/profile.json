@@ -1,0 +1,11 @@
+{
+  "investorId": "II-LS-004",
+  "name": "Alliance Insurance Lesotho",
+  "type": "Insurance Fund",
+  "country": "Lesotho",
+  "assetsUnderManagement": 1100000000.0,
+  "currency": "LSL",
+  "establishedDate": "1995-08-01T00:00:00Z",
+  "members": 65000,
+  "investmentStrategy": "Conservative fixed income focus with emphasis on capital preservation"
+}
