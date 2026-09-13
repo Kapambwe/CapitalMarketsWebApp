@@ -1,3 +1,10 @@
 {
-  "walletAppUrl": "citizen-wallet://authorize"
+  "walletAppUrl": "citizen-wallet://authorize",
+  "walletApps": [
+    { "name": "Citizen Wallet", "url": "citizen-wallet://authorize" },
+    { "name": "MobiWallet", "url": "mobi-wallet://consent" },
+    { "name": "ZedWallet", "url": "zed-wallet://consent" }
+  ],
+  "requestType": "DS-Request",
+  "supportedCredentials": ["Business Identity", "DID Ownership", "Financial Performance", "Repayment History"]
 }
