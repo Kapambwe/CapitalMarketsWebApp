@@ -1,6 +1,6 @@
 export function renderNetworkGraph(elementId, nodes, links, title) {
     const chartDom = document.getElementById(elementId);
-    if (!chartDom) return;
+    if (!chartDom || typeof echarts === 'undefined') return;
     const myChart = echarts.init(chartDom);
     
     const option = {
@@ -49,7 +49,7 @@ export function renderNetworkGraph(elementId, nodes, links, title) {
 
 export function renderSankeyDiagram(elementId, data, title) {
     const chartDom = document.getElementById(elementId);
-    if (!chartDom) return;
+    if (!chartDom || typeof echarts === 'undefined') return;
     const myChart = echarts.init(chartDom);
 
     const option = {
@@ -86,7 +86,7 @@ export function renderSankeyDiagram(elementId, data, title) {
 
 export function renderHeatmap(elementId, data, xAxisLabels, yAxisLabels, title) {
     const chartDom = document.getElementById(elementId);
-    if (!chartDom) return;
+    if (!chartDom || typeof echarts === 'undefined') return;
     const myChart = echarts.init(chartDom);
 
     const option = {

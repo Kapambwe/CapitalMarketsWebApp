@@ -4,11 +4,22 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>CapitalMarketsWebApp</title>
+    <title>Capital Markets Platform</title>
     <base href="/CapitalMarketsWebApp/" />
-    <link href="_framework/dotnet.bl73roesmd.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-0XvuQoR9wu+V949OwXK3kCKKle1wIx4c5QhoAbyyyEU=" />
+    <link href="_framework/dotnet.lvhh5332x5.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-P8oUbFH93FSVg6EIcYYtenIi5YF44kLdumGOIm47SHQ=" />
+    <script>
+        // Dynamically set base path for GitHub Pages deployment
+        (function () {
+            var base = document.getElementById('dynamic-base');
+            var path = window.location.pathname.includes('/CapitalMarketsWebApp')
+                ? '/CapitalMarketsWebApp/'
+                : '/';
+            base.setAttribute('href', path);
+        })();
+    </script>
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="_content/Radzen.Blazor/css/material-base.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="css/app.css" />
     <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
     <link rel="icon" type="image/png" href="favicon.png" />
@@ -17,20 +28,20 @@
     <script type="importmap">{
   "imports": {
     "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.w3qd1tpl0e.js",
-    "./_framework/dotnet.js": "./_framework/dotnet.bl73roesmd.js",
-    "./_framework/dotnet.native.js": "./_framework/dotnet.native.020r7jjcr5.js",
-    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.zbexyp8zrs.js"
+    "./_framework/dotnet.js": "./_framework/dotnet.lvhh5332x5.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.6ilbvndvcf.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.v2rwe8u38b.js"
   },
   "scopes": {},
   "integrity": {
     "./_framework/blazor.webassembly.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
     "./_framework/blazor.webassembly.w3qd1tpl0e.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
-    "./_framework/dotnet.bl73roesmd.js": "sha256-0XvuQoR9wu+V949OwXK3kCKKle1wIx4c5QhoAbyyyEU=",
-    "./_framework/dotnet.js": "sha256-0XvuQoR9wu+V949OwXK3kCKKle1wIx4c5QhoAbyyyEU=",
-    "./_framework/dotnet.native.020r7jjcr5.js": "sha256-CPyIwqI4Wkl/JrAL4KMmwosT7pskNJovtURZ03tQS1U=",
-    "./_framework/dotnet.native.js": "sha256-CPyIwqI4Wkl/JrAL4KMmwosT7pskNJovtURZ03tQS1U=",
-    "./_framework/dotnet.runtime.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40=",
-    "./_framework/dotnet.runtime.zbexyp8zrs.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40="
+    "./_framework/dotnet.js": "sha256-P8oUbFH93FSVg6EIcYYtenIi5YF44kLdumGOIm47SHQ=",
+    "./_framework/dotnet.lvhh5332x5.js": "sha256-P8oUbFH93FSVg6EIcYYtenIi5YF44kLdumGOIm47SHQ=",
+    "./_framework/dotnet.native.6ilbvndvcf.js": "sha256-YvNi2Q+yHnXi8iT7ROza0OEWWv2tCpuTI2Ggaeura3U=",
+    "./_framework/dotnet.native.js": "sha256-YvNi2Q+yHnXi8iT7ROza0OEWWv2tCpuTI2Ggaeura3U=",
+    "./_framework/dotnet.runtime.js": "sha256-6SBqDbLLy460Bxd7wMZoiO97hZfLTuF+HRhWT3elS7U=",
+    "./_framework/dotnet.runtime.v2rwe8u38b.js": "sha256-6SBqDbLLy460Bxd7wMZoiO97hZfLTuF+HRhWT3elS7U="
   }
 }</script>
 </head>
@@ -49,8 +60,19 @@
         <a href="." class="reload">Reload</a>
         <span class="dismiss">🗙</span>
     </div>
-    <script src="_framework/blazor.webassembly.w3qd1tpl0e.js"></script>
-    <script src="_content/Radzen.Blazor/Radzen.Blazor.js?v=@(typeof(Radzen.Colors).Assembly.GetName().Version)"></script>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+
+    <script>
+        // If redirected from 404.html, restore path
+        (function () {
+            const params = new URLSearchParams(window.location.search);
+            const path = params.get('path');
+            if (path) {
+                window.history.replaceState(null, '', '/CapitalMarketsWebApp' + decodeURIComponent(path));
+            }
+        })();
+    </script>
 </body>
 
 </html>
